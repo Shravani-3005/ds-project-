@@ -1,0 +1,1511 @@
+Delivery_Distance_km,Preparation_Time_min,Partner_Experience_years,Traffic_Level,Weather,Time_of_Day,Vehicle_Type,Delivery_Time_min
+6.62,8.0,0.3,High,Clear,Afternoon,Motorcycle,31.1
+4.68,16.0,0.7,Medium,Clear,Morning,Scooter,28.0
+4.43,20.9,3.0,Low,Rainy,Afternoon,Motorcycle,38.3
+4.43,14.8,1.3,Medium,Rainy,Evening,Motorcycle,38.6
+11.02,18.4,0.5,Medium,Foggy,Evening,Motorcycle,47.5
+7.58,10.6,0.4,High,,Evening,Motorcycle,45.3
+3.84,25.0,0.8,Medium,Clear,Night,Scooter,36.7
+6.77,22.0,5.6,Jam,Clear,Afternoon,Electric Bike,55.2
+5.79,16.2,0.8,Low,Clear,Evening,Electric Bike,35.6
+1.34,15.2,8.0,Medium,Clear,Afternoon,Motorcycle,23.0
+2.7,21.9,1.3,Medium,Stormy,Afternoon,Motorcycle,45.9
+6.02,13.8,0.4,Medium,Windy,Evening,Bicycle,46.6
+10.49,18.8,4.4,Medium,Clear,Night,Motorcycle,36.0
+4.45,25.0,1.2,High,Rainy,Evening,Electric Bike,59.4
+3.67,13.1,2.5,High,Windy,Evening,Motorcycle,36.8
+5.39,20.2,8.0,Jam,Clear,Morning,Bicycle,48.2
+3.54,19.9,0.2,High,Clear,Afternoon,Motorcycle,36.6
+4.28,17.4,0.2,High,Clear,Evening,Motorcycle,41.8
+5.03,15.0,2.5,Medium,Rainy,Morning,Scooter,36.4
+2.61,25.3,0.7,High,Stormy,Afternoon,Scooter,56.5
+7.79,14.4,0.4,Medium,Foggy,Evening,Motorcycle,44.3
+2.32,8.0,0.2,Medium,Clear,Morning,Scooter,23.1
+2.15,21.8,0.2,Medium,Clear,Afternoon,Scooter,32.1
+5.65,10.8,3.0,Medium,Foggy,Evening,Motorcycle,37.7
+7.47,22.2,0.3,Medium,Windy,Evening,Motorcycle,43.1
+5.57,26.0,1.3,Jam,Rainy,Night,Scooter,64.1
+4.74,21.8,1.9,Medium,Rainy,Evening,Motorcycle,46.3
+4.26,24.4,1.1,Low,Clear,Afternoon,Scooter,33.2
+3.87,30.1,0.2,Medium,Windy,Night,Motorcycle,46.2
+8.71,23.8,3.1,Low,Foggy,Evening,Motorcycle,47.1
+6.05,20.0,0.2,Low,Clear,Afternoon,Motorcycle,28.2
+4.05,27.8,2.9,Low,Foggy,Morning,Scooter,36.3
+3.37,28.5,4.5,Medium,Clear,Evening,Motorcycle,42.6
+7.02,28.6,1.1,Medium,Clear,Evening,Motorcycle,46.3
+8.61,15.0,1.5,High,Clear,Evening,Motorcycle,47.1
+8.21,9.9,1.3,High,Clear,Evening,Bicycle,52.6
+3.03,14.7,1.0,Medium,Clear,Evening,Motorcycle,28.6
+4.24,22.2,4.4,Medium,Clear,Night,Scooter,32.6
+3.82,19.0,4.5,Medium,Rainy,Evening,Motorcycle,41.9
+4.56,16.8,0.8,High,Rainy,Morning,Motorcycle,41.8
+7.75,21.4,1.9,Low,Clear,Evening,Scooter,41.4
+9.99,9.2,5.2,Low,Clear,Afternoon,Scooter,25.5
+6.17,18.8,6.5,High,Rainy,Evening,Bicycle,59.3
+3.44,24.7,1.4,Medium,Clear,Night,Bicycle,41.9
+4.97,21.3,1.2,Low,Clear,Evening,Electric Bike,38.5
+10.95,22.2,0.7,Low,Windy,Evening,Scooter,53.6
+5.32,27.6,6.4,Jam,Foggy,Evening,Scooter,60.3
+4.26,17.6,0.3,High,Windy,Afternoon,Motorcycle,40.1
+4.47,14.1,1.7,High,Rainy,Afternoon,Bicycle,48.5
+6.15,25.1,0.7,Medium,Clear,Evening,Scooter,46.3
+3.1,25.0,0.7,Medium,Foggy,Evening,Scooter,43.6
+3.77,21.3,1.0,Jam,Clear,Evening,Motorcycle,49.5
+8.15,17.0,8.0,Jam,Clear,Morning,Motorcycle,42.4
+6.06,18.0,0.2,Low,Clear,Evening,Bicycle,39.4
+5.35,10.3,1.7,High,Windy,Evening,Motorcycle,35.2
+8.36,24.7,0.2,Low,Clear,Evening,Motorcycle,46.5
+3.32,24.5,0.3,Low,Windy,Evening,Motorcycle,38.5
+4.19,10.1,1.2,High,Windy,Evening,Electric Bike,34.9
+5.96,23.2,1.4,Medium,Rainy,Evening,Motorcycle,50.2
+5.85,20.4,0.6,Jam,Foggy,Afternoon,Electric Bike,61.5
+2.01,11.9,0.8,Low,Rainy,Night,Motorcycle,22.9
+3.96,10.8,0.2,Medium,Windy,Morning,Electric Bike,25.3
+4.62,20.2,0.7,Jam,Clear,Night,Scooter,53.3
+6.31,15.6,6.8,Jam,Foggy,Morning,Motorcycle,45.8
+5.84,28.9,5.8,Low,Rainy,Morning,Scooter,43.5
+4.86,23.7,0.8,Medium,Stormy,Night,Motorcycle,51.5
+1.33,20.8,1.7,Medium,Rainy,Afternoon,Motorcycle,36.8
+4.99,21.1,4.8,Low,Rainy,Evening,Electric Bike,40.0
+5.24,26.0,0.2,Jam,Foggy,Evening,Motorcycle,63.8
+15.81,23.1,3.3,Jam,Windy,Night,Motorcycle,73.2
+4.54,21.0,5.9,Low,Rainy,Night,Motorcycle,33.4
+5.97,12.1,0.2,Low,Clear,Afternoon,Motorcycle,20.1
+9.07,36.4,0.4,Low,Rainy,Evening,Electric Bike,73.5
+7.52,11.4,6.5,Jam,Stormy,Morning,Motorcycle,54.9
+10.2,16.1,1.5,Low,Foggy,Afternoon,Bicycle,55.2
+2.03,8.1,0.2,Medium,Windy,Evening,Bicycle,25.5
+2.74,21.2,0.6,Medium,Clear,Afternoon,Motorcycle,37.7
+3.62,18.9,1.2,Medium,Rainy,Evening,Motorcycle,41.1
+1.81,22.6,2.4,Low,Rainy,Evening,Electric Bike,36.2
+5.26,8.0,2.6,Low,Windy,Evening,Motorcycle,23.3
+2.87,24.7,8.0,Jam,Clear,Night,Motorcycle,43.9
+10.88,13.2,0.7,Jam,Windy,Morning,Motorcycle,55.6
+3.15,17.1,1.5,High,Rainy,Evening,Scooter,40.7
+4.2,23.6,1.5,Low,Clear,Night,Electric Bike,32.1
+7.75,19.6,1.0,Medium,Clear,Evening,Motorcycle,45.5
+2.31,20.0,0.4,Medium,Clear,Morning,Motorcycle,30.3
+1.73,22.8,7.6,Medium,Rainy,Evening,Bicycle,38.0
+5.61,20.6,3.8,Jam,Clear,Afternoon,Electric Bike,55.0
+5.84,16.0,1.4,Medium,Clear,Morning,Scooter,35.0
+7.63,17.0,,Low,Windy,Evening,Electric Bike,41.9
+6.7,19.3,0.5,Jam,Clear,Evening,Motorcycle,56.4
+5.96,12.6,1.6,Jam,Clear,Night,Electric Bike,49.9
+3.37,24.0,2.4,Low,Rainy,Evening,Motorcycle,39.4
+5.76,19.7,1.4,Medium,Rainy,Evening,Motorcycle,48.6
+5.95,18.4,8.0,Medium,Foggy,Morning,Scooter,40.2
+3.29,25.2,1.9,Medium,Clear,Afternoon,Motorcycle,37.9
+12.45,17.3,0.9,Low,Foggy,Morning,Bicycle,63.1
+6.54,16.9,3.0,Medium,Rainy,Night,Motorcycle,40.8
+2.77,15.1,0.4,Jam,Clear,Morning,Bicycle,46.5
+7.65,20.1,1.0,Medium,Clear,Afternoon,Bicycle,49.4
+8.33,19.9,0.9,Low,Clear,Evening,Motorcycle,39.6
+6.34,14.0,1.1,Medium,Clear,Afternoon,Electric Bike,35.3
+4.4,16.9,3.0,Medium,Foggy,Afternoon,Motorcycle,32.8
+3.21,14.0,1.3,High,Rainy,Evening,Bicycle,48.5
+4.85,13.8,3.2,Medium,Clear,Morning,Scooter,26.8
+6.1,8.0,1.7,Low,Clear,Morning,Scooter,22.1
+5.1,16.6,0.8,Low,Clear,Afternoon,Scooter,31.4
+10.43,8.0,3.3,High,Rainy,Evening,Motorcycle,45.8
+7.07,15.2,0.5,Medium,Clear,Evening,Motorcycle,37.6
+3.0,14.3,0.5,High,Rainy,Afternoon,Motorcycle,40.3
+2.59,24.3,1.4,Low,Clear,Evening,Electric Bike,35.3
+6.57,11.9,0.6,Medium,Foggy,Afternoon,Scooter,36.7
+4.46,13.4,0.2,Medium,Windy,Night,Scooter,27.8
+7.38,15.7,2.1,Jam,Clear,Morning,Motorcycle,50.3
+6.54,14.5,1.4,Jam,Rainy,Evening,Scooter,63.2
+4.86,26.2,1.2,Low,Stormy,Night,Motorcycle,50.1
+3.02,11.2,6.8,Medium,Clear,Evening,Electric Bike,24.7
+1.86,15.7,1.7,Low,Rainy,Morning,Bicycle,30.6
+5.7,20.0,4.0,Medium,Clear,Afternoon,Motorcycle,36.4
+2.28,23.3,0.3,Medium,Rainy,Evening,Motorcycle,39.4
+2.94,15.7,1.7,Jam,Clear,Morning,Motorcycle,38.9
+5.52,8.0,4.0,Jam,Stormy,Evening,Scooter,52.2
+5.23,17.1,1.7,Medium,Foggy,Evening,Scooter,41.7
+2.46,26.1,2.5,Medium,Foggy,Evening,Electric Bike,47.6
+8.82,19.7,0.9,High,Foggy,Morning,Motorcycle,51.9
+8.7,19.4,0.2,High,Rainy,Evening,Electric Bike,64.6
+6.68,11.6,1.2,Low,Clear,Evening,Scooter,26.4
+6.67,11.0,1.0,Medium,Windy,Evening,Motorcycle,34.3
+6.68,18.1,4.0,Medium,Stormy,Morning,Scooter,50.2
+18.0,9.4,0.6,Low,Rainy,Morning,Motorcycle,49.7
+8.3,22.7,6.8,Low,Stormy,Afternoon,Scooter,46.2
+7.16,12.9,6.3,Low,Rainy,Morning,Electric Bike,41.4
+3.17,17.9,0.6,Medium,Rainy,Evening,Motorcycle,42.1
+4.42,8.0,0.9,Medium,Rainy,Night,Electric Bike,31.6
+14.93,15.6,4.5,Low,Clear,Afternoon,Scooter,48.9
+1.39,10.9,6.8,Low,Clear,Evening,Motorcycle,13.7
+3.84,8.0,1.2,High,Clear,Morning,Scooter,29.9
+8.84,21.3,0.8,High,Rainy,Morning,Scooter,62.3
+3.29,27.8,1.5,Medium,Clear,Morning,Motorcycle,35.2
+7.26,24.8,2.3,Medium,Clear,Afternoon,Motorcycle,44.1
+5.2,22.1,0.6,Jam,Stormy,Night,Motorcycle,67.9
+3.43,15.5,2.7,Low,Clear,Morning,Motorcycle,18.4
+1.21,22.8,0.2,Low,Rainy,Evening,Motorcycle,36.0
+5.62,25.3,0.2,Medium,Clear,Evening,Motorcycle,43.1
+3.13,18.8,1.0,Low,Clear,Night,Motorcycle,26.5
+4.75,10.9,0.9,Medium,Foggy,Morning,Bicycle,37.6
+6.64,15.0,0.8,Jam,Rainy,Afternoon,Motorcycle,50.5
+7.95,28.2,1.4,Medium,Foggy,Morning,Electric Bike,58.7
+3.83,17.6,0.8,Medium,Clear,Afternoon,Scooter,30.9
+3.42,8.0,0.4,Jam,Rainy,Afternoon,Scooter,43.1
+2.26,9.2,0.7,Low,Clear,Night,Motorcycle,12.0
+8.16,15.5,7.4,Low,Clear,Evening,Bicycle,43.5
+13.83,24.2,1.1,Medium,Clear,Evening,Scooter,64.4
+8.61,16.4,1.2,Medium,Clear,Evening,Electric Bike,45.4
+9.6,24.3,1.7,Low,Clear,Morning,Motorcycle,37.7
+3.31,14.8,8.0,Medium,Clear,Afternoon,Motorcycle,20.7
+6.44,8.0,0.6,Medium,Stormy,Night,Scooter,41.9
+7.61,15.1,2.3,High,Clear,Evening,Motorcycle,41.9
+1.0,20.1,2.5,Medium,Clear,Night,Scooter,21.7
+2.67,19.6,1.9,Medium,Clear,Evening,Motorcycle,34.4
+11.28,10.5,0.2,Low,Rainy,Morning,Scooter,46.9
+1.99,15.9,2.3,Medium,Clear,Afternoon,Bicycle,27.5
+10.38,34.1,0.2,Low,Windy,Morning,Scooter,55.4
+1.98,10.6,1.8,Jam,Stormy,Afternoon,Electric Bike,47.5
+2.75,22.0,2.7,Medium,Clear,Morning,Scooter,31.6
+6.5,8.0,0.5,Medium,Rainy,Evening,Scooter,37.3
+5.27,23.2,3.7,High,Clear,Evening,Bicycle,55.2
+4.05,12.6,0.2,Medium,Rainy,Night,Electric Bike,34.1
+11.06,20.4,3.7,Medium,Clear,Evening,Electric Bike,55.4
+2.3,10.3,1.2,High,Clear,Night,Motorcycle,24.1
+4.65,19.7,0.5,High,Clear,Morning,Scooter,42.1
+6.93,12.5,0.3,High,Foggy,Morning,Motorcycle,41.6
+5.91,13.7,6.1,Low,Clear,Evening,Motorcycle,24.6
+3.49,20.7,0.2,Medium,Clear,Afternoon,Scooter,32.5
+3.57,15.4,0.4,High,Foggy,Afternoon,Electric Bike,41.8
+7.89,20.3,0.9,Low,Rainy,Afternoon,Electric Bike,49.6
+8.08,16.9,1.9,Low,Windy,Afternoon,Motorcycle,32.8
+5.99,18.4,1.6,High,Clear,Evening,Motorcycle,44.2
+3.05,20.7,0.3,Low,Foggy,Afternoon,Electric Bike,36.1
+3.63,15.9,0.7,High,Foggy,Evening,Motorcycle,41.8
+5.01,12.0,0.5,Medium,,Evening,Scooter,33.9
+5.41,14.8,0.5,Medium,Foggy,Afternoon,Motorcycle,36.6
+6.79,25.2,1.1,Low,Clear,Afternoon,Motorcycle,35.9
+4.51,18.7,2.4,High,Stormy,Morning,Bicycle,60.9
+7.8,12.9,0.5,Medium,Clear,Afternoon,Motorcycle,35.3
+7.75,20.4,0.9,Medium,Rainy,Evening,Motorcycle,54.5
+9.77,20.8,1.0,High,Clear,Evening,Motorcycle,54.6
+5.13,21.1,7.5,High,Stormy,Evening,Bicycle,56.8
+6.05,12.1,6.2,Jam,Clear,Afternoon,Electric Bike,45.5
+4.71,13.9,3.2,Medium,,Evening,Motorcycle,43.9
+3.08,13.9,0.6,Medium,Windy,Evening,Motorcycle,32.0
+13.66,15.8,0.2,Jam,Clear,Evening,Scooter,68.6
+9.13,21.2,0.8,Medium,Windy,Evening,Motorcycle,54.1
+7.67,19.8,0.6,Medium,Stormy,Evening,Scooter,57.6
+5.03,20.3,1.4,Low,Clear,Evening,Motorcycle,32.3
+2.92,26.1,3.0,High,Clear,Evening,Motorcycle,42.7
+8.38,22.1,3.9,Medium,Rainy,Morning,Scooter,48.2
+4.66,17.1,3.7,High,Clear,Evening,Motorcycle,35.9
+6.34,10.9,0.9,Medium,Clear,Morning,Electric Bike,27.4
+3.63,13.7,2.3,Low,Clear,Morning,Motorcycle,20.7
+5.8,16.4,0.8,Medium,Clear,Night,Motorcycle,36.3
+3.76,23.0,0.2,Low,Clear,Night,Bicycle,41.1
+3.84,17.8,2.4,Medium,Clear,Morning,Motorcycle,26.6
+5.76,14.1,0.2,Medium,Windy,Afternoon,Scooter,34.4
+1.96,13.6,1.1,Medium,Foggy,Morning,Motorcycle,29.9
+2.02,17.6,0.8,High,Clear,Evening,Scooter,37.8
+3.28,23.3,2.4,High,Foggy,Evening,Scooter,49.2
+4.48,27.5,2.9,High,Foggy,Night,Motorcycle,49.0
+7.92,16.8,0.7,Low,Stormy,Evening,Electric Bike,58.3
+4.62,17.7,3.3,Low,Clear,Afternoon,Scooter,24.4
+5.01,10.7,0.7,Medium,Clear,Evening,Motorcycle,30.1
+4.29,29.6,1.2,Jam,Stormy,Afternoon,Scooter,72.5
+6.04,9.6,2.6,High,Stormy,Night,Scooter,45.4
+3.06,25.0,2.4,High,Foggy,Night,Motorcycle,46.8
+4.76,15.8,8.0,Medium,Foggy,Evening,Motorcycle,33.2
+6.3,14.4,0.5,Medium,Clear,Afternoon,Motorcycle,30.9
+5.73,11.3,2.2,Medium,Rainy,Afternoon,Motorcycle,35.5
+5.1,32.5,1.9,Low,Clear,Morning,Electric Bike,41.3
+5.14,19.3,4.9,Low,Clear,Evening,Scooter,32.9
+6.62,18.1,0.3,Jam,Windy,Evening,Bicycle,68.0
+14.0,23.3,2.8,Low,Clear,Afternoon,Motorcycle,47.5
+3.18,14.1,1.7,Low,Rainy,Evening,Motorcycle,30.1
+14.21,18.0,0.6,Low,Stormy,Evening,Electric Bike,71.3
+3.1,18.3,1.3,Jam,Clear,Morning,Scooter,42.7
+1.11,14.9,0.8,Medium,Stormy,Night,Scooter,36.1
+3.71,25.2,1.7,High,Stormy,Night,Motorcycle,59.7
+6.1,16.7,4.4,Jam,Rainy,Night,Motorcycle,55.3
+12.51,8.7,1.7,Medium,Clear,Afternoon,Motorcycle,39.1
+2.92,16.2,2.0,Medium,Clear,Afternoon,Bicycle,31.4
+6.6,19.5,1.5,Low,Clear,Afternoon,Motorcycle,30.4
+2.16,12.6,0.2,Low,Clear,Afternoon,Electric Bike,24.0
+12.27,13.1,0.5,High,Clear,Morning,Scooter,49.4
+9.22,14.7,1.4,High,Stormy,Evening,Motorcycle,60.9
+3.84,25.3,0.7,Medium,Clear,Evening,Scooter,43.8
+9.98,15.1,0.4,Medium,Foggy,Night,Electric Bike,50.4
+4.75,26.6,1.4,Medium,Clear,Morning,Electric Bike,45.9
+9.47,14.3,0.8,Low,Rainy,Evening,Motorcycle,45.8
+5.08,20.0,0.6,Low,Windy,Evening,Motorcycle,38.8
+5.2,15.3,1.2,Low,Clear,Evening,Motorcycle,30.1
+3.89,22.5,0.3,Medium,Clear,Night,Motorcycle,34.4
+7.06,11.3,5.3,High,Foggy,Evening,Scooter,42.8
+5.42,22.5,4.0,Medium,Foggy,Night,Electric Bike,43.2
+6.68,18.7,2.5,Low,Foggy,Afternoon,Motorcycle,33.1
+1.83,14.2,0.2,Medium,Clear,Evening,Scooter,25.0
+9.64,17.0,3.0,High,Clear,Morning,Scooter,48.3
+10.89,27.2,3.3,Low,Stormy,Morning,Motorcycle,56.8
+5.4,18.8,2.9,Low,Stormy,Afternoon,Motorcycle,41.6
+13.49,13.8,0.2,Medium,Rainy,Morning,Scooter,53.5
+11.89,10.8,2.1,High,Windy,Afternoon,Electric Bike,53.4
+7.14,21.0,3.6,Medium,Rainy,Morning,Scooter,46.9
+10.05,19.2,1.7,High,Clear,Morning,Motorcycle,47.0
+8.72,22.2,2.1,Jam,Clear,Night,Motorcycle,51.8
+1.53,9.2,1.2,High,Clear,Morning,Motorcycle,22.2
+4.34,11.0,1.5,Medium,Rainy,Evening,Scooter,34.7
+7.4,24.9,0.2,Medium,Clear,Morning,Electric Bike,47.6
+11.26,20.0,2.0,Low,Clear,Night,Motorcycle,41.6
+2.07,21.2,0.2,Jam,Foggy,Night,Electric Bike,52.1
+1.6,12.2,1.1,Medium,Foggy,Evening,Scooter,26.1
+4.91,12.1,0.7,Low,Rainy,Evening,Scooter,39.2
+1.17,23.9,1.6,High,Windy,Morning,Bicycle,39.5
+4.82,24.2,0.3,Medium,Clear,Night,Motorcycle,36.4
+6.18,11.5,2.4,Medium,Rainy,Night,Bicycle,42.1
+2.83,10.3,3.2,Medium,Foggy,Night,Motorcycle,23.3
+4.89,17.3,0.4,Medium,Rainy,Evening,Motorcycle,48.8
+8.3,13.2,0.2,High,Clear,Afternoon,Electric Bike,43.0
+3.7,13.1,0.3,Medium,Clear,Night,Bicycle,25.5
+3.13,10.5,4.2,Medium,Windy,Afternoon,Scooter,23.6
+4.77,15.2,1.5,Medium,Rainy,Evening,Scooter,43.5
+2.65,11.1,1.3,High,Windy,Morning,Scooter,29.8
+12.97,11.4,0.2,High,Rainy,Night,Electric Bike,65.3
+5.17,19.8,2.1,Medium,Foggy,Morning,Motorcycle,35.6
+3.32,17.7,4.0,Medium,Windy,Afternoon,Electric Bike,29.9
+5.7,20.9,3.5,Low,Foggy,Evening,Scooter,40.5
+4.75,8.1,2.0,Jam,Clear,Evening,Scooter,43.8
+4.46,18.1,0.2,Medium,Rainy,Evening,Motorcycle,45.5
+3.7,30.5,0.2,High,Windy,Afternoon,Scooter,54.6
+3.6,15.8,0.2,Low,Clear,Morning,Bicycle,26.3
+1.86,22.9,0.6,Low,Clear,Evening,Scooter,32.4
+10.04,22.9,0.3,Medium,Clear,Night,Bicycle,59.0
+6.89,23.2,0.6,High,Windy,Evening,Motorcycle,57.7
+6.01,19.0,1.0,Medium,Clear,Evening,Scooter,37.9
+4.71,21.4,5.7,Jam,Rainy,Night,Electric Bike,54.2
+2.8,22.2,1.9,Medium,Clear,Afternoon,Scooter,29.6
+3.2,21.8,3.6,Medium,Clear,Evening,Scooter,35.5
+2.0,11.3,2.5,Low,Foggy,Evening,Scooter,23.7
+3.44,8.0,0.2,High,Clear,Afternoon,Electric Bike,32.8
+2.57,8.7,2.7,Low,Rainy,Evening,Electric Bike,28.6
+11.55,16.4,0.6,High,Foggy,Evening,Motorcycle,55.9
+8.01,21.6,2.0,Jam,Windy,Afternoon,Electric Bike,65.1
+5.29,11.4,0.8,Jam,Clear,Afternoon,Motorcycle,37.6
+2.99,23.5,8.0,Medium,Windy,Morning,Motorcycle,29.3
+2.65,15.0,0.6,High,Foggy,Evening,Electric Bike,42.1
+4.54,15.0,0.7,High,Windy,Afternoon,Motorcycle,35.2
+8.19,13.0,5.3,Low,Rainy,Morning,Electric Bike,42.0
+2.04,8.0,,Medium,Rainy,Evening,Motorcycle,35.1
+6.84,19.4,2.4,Low,Windy,Evening,Motorcycle,37.0
+3.43,28.3,2.6,Medium,Windy,Evening,Scooter,44.0
+3.8,17.6,3.6,Low,Clear,Evening,Motorcycle,26.6
+5.21,8.0,7.3,Low,Clear,Night,Electric Bike,15.0
+3.05,22.7,7.4,Medium,Clear,Night,Motorcycle,28.4
+4.42,8.3,0.2,Medium,Clear,Evening,Motorcycle,22.7
+2.9,10.7,3.5,Medium,Clear,Evening,Motorcycle,23.7
+3.6,16.6,2.1,Low,Clear,Afternoon,Motorcycle,28.3
+7.54,18.7,2.1,Medium,Windy,Night,Electric Bike,39.0
+5.35,11.9,0.3,Low,Clear,Afternoon,Motorcycle,20.8
+7.52,16.3,2.1,Medium,Foggy,Afternoon,Scooter,40.9
+3.4,22.3,8.0,Medium,Clear,Afternoon,Bicycle,35.7
+6.87,23.1,4.9,Medium,Clear,Morning,Scooter,41.5
+1.7,25.5,1.2,High,Clear,Night,Electric Bike,41.9
+5.2,29.5,0.2,Medium,Clear,Evening,Motorcycle,44.4
+7.11,22.9,0.9,High,Foggy,Evening,Motorcycle,54.3
+1.66,16.7,3.5,Medium,Windy,Evening,Electric Bike,28.1
+3.43,23.2,2.4,Medium,Clear,Evening,Scooter,37.9
+5.2,20.8,1.2,Medium,Rainy,Morning,Scooter,44.9
+8.51,21.0,0.2,Low,Rainy,Evening,Scooter,48.9
+3.6,19.1,1.1,High,Windy,Evening,Motorcycle,41.9
+6.73,12.5,1.3,Medium,Foggy,Afternoon,Motorcycle,36.9
+10.38,11.8,5.3,Medium,Rainy,Evening,Electric Bike,50.8
+6.89,17.4,2.0,Low,Foggy,Afternoon,Scooter,36.9
+4.51,18.9,0.7,Low,Windy,Afternoon,Scooter,36.4
+6.2,13.9,1.5,Jam,Clear,Morning,Electric Bike,52.4
+3.53,20.5,0.2,High,Clear,Afternoon,Motorcycle,34.2
+5.32,30.5,7.2,Low,Windy,Evening,Motorcycle,42.7
+4.64,8.0,0.9,Medium,Foggy,Evening,Electric Bike,40.7
+6.09,21.5,1.3,Medium,Rainy,Afternoon,Electric Bike,52.2
+3.98,17.6,0.9,High,Rainy,Evening,Scooter,49.3
+6.27,20.7,2.3,Low,Clear,Evening,Motorcycle,38.7
+3.96,15.4,2.2,Low,Rainy,Afternoon,Motorcycle,32.1
+7.97,17.1,2.5,High,Foggy,Morning,Scooter,50.2
+4.19,18.8,0.6,Low,Clear,Night,Motorcycle,26.1
+1.2,16.2,0.8,Low,Foggy,Evening,Electric Bike,29.1
+2.7,8.9,0.3,Jam,Windy,Night,Bicycle,39.9
+5.12,16.6,2.1,Medium,Clear,Afternoon,Electric Bike,36.7
+11.5,9.5,0.2,Medium,Rainy,Evening,Motorcycle,47.6
+7.81,21.9,1.8,Low,Clear,Afternoon,Electric Bike,41.4
+1.02,8.0,4.1,Low,Foggy,Afternoon,Motorcycle,12.0
+1.92,24.2,4.4,Low,Clear,Evening,Motorcycle,28.5
+9.07,20.6,1.2,High,Rainy,Afternoon,Motorcycle,59.8
+7.09,20.6,1.2,Medium,Windy,Morning,Motorcycle,41.9
+14.67,8.0,0.2,High,Clear,Afternoon,Bicycle,67.8
+3.87,16.0,2.2,Jam,Windy,Morning,Motorcycle,38.4
+3.01,24.9,3.4,Medium,Stormy,Evening,Motorcycle,51.1
+5.27,14.9,0.6,Low,Clear,Evening,Bicycle,39.6
+3.82,11.5,1.1,Medium,Clear,Morning,Motorcycle,22.1
+8.63,14.2,3.7,Jam,Stormy,Morning,Electric Bike,63.0
+3.75,17.6,4.2,High,Stormy,Morning,Motorcycle,45.5
+4.34,12.9,0.6,Low,Clear,Evening,Motorcycle,26.3
+2.76,25.4,1.6,High,Clear,Morning,Bicycle,48.1
+7.54,17.6,0.4,Medium,Clear,Evening,Motorcycle,40.1
+2.87,14.7,0.2,Jam,Stormy,Morning,Scooter,56.1
+6.34,10.2,4.8,Low,Clear,Afternoon,Motorcycle,22.6
+12.51,20.9,3.4,Medium,Rainy,Night,Motorcycle,52.2
+1.5,20.8,2.9,High,Windy,Evening,Motorcycle,42.4
+10.63,13.2,0.2,Medium,Clear,Morning,Motorcycle,38.9
+5.91,8.0,3.7,Medium,Rainy,Evening,Motorcycle,31.3
+2.49,20.5,1.2,Low,Clear,Evening,Electric Bike,35.2
+5.38,16.9,0.8,Medium,Windy,Evening,Scooter,39.3
+7.43,20.0,1.6,Medium,Clear,Evening,Motorcycle,37.4
+3.13,29.7,0.2,Jam,Foggy,Evening,Motorcycle,61.6
+6.53,17.8,2.8,Medium,Foggy,Night,Bicycle,45.6
+11.09,14.9,1.7,Medium,Clear,Afternoon,Bicycle,56.2
+3.75,11.1,0.4,High,Clear,Evening,Scooter,33.1
+2.74,16.1,0.4,Low,Clear,Evening,Electric Bike,27.2
+4.72,19.0,0.4,Medium,Clear,Morning,Motorcycle,32.2
+5.23,18.3,0.2,High,Windy,Morning,Motorcycle,41.6
+8.86,28.3,1.8,High,Windy,Morning,Scooter,61.0
+4.63,21.0,3.7,Medium,Rainy,Evening,Scooter,44.2
+3.95,17.2,0.2,High,Rainy,Evening,Scooter,52.2
+2.7,13.8,0.2,Low,Rainy,Evening,Motorcycle,29.2
+1.66,19.6,1.7,Jam,Windy,Morning,Bicycle,46.9
+2.21,12.6,3.4,Low,Clear,Evening,Electric Bike,24.6
+2.2,19.1,0.8,High,Clear,Night,Motorcycle,33.1
+4.36,20.9,0.9,Medium,Clear,Afternoon,Scooter,36.3
+1.88,16.7,1.8,Jam,Rainy,Evening,Motorcycle,48.0
+4.91,14.2,0.6,High,Clear,Evening,Motorcycle,37.1
+12.36,8.0,0.2,High,Clear,Evening,Motorcycle,50.0
+9.0,24.9,2.7,Low,Clear,Evening,Motorcycle,46.3
+4.34,20.4,2.0,Medium,Foggy,Night,Motorcycle,37.9
+16.49,20.6,1.7,Medium,Clear,Afternoon,Electric Bike,63.2
+5.24,8.6,2.7,High,Clear,Night,Motorcycle,25.5
+5.65,26.3,2.2,Low,Clear,Afternoon,Scooter,42.7
+4.67,15.2,0.5,Jam,Clear,Afternoon,Motorcycle,44.5
+4.97,16.3,0.9,High,Rainy,Morning,Motorcycle,46.1
+3.67,11.6,0.3,Medium,Clear,Evening,Electric Bike,30.6
+4.37,8.0,0.3,High,Clear,Afternoon,Scooter,28.0
+10.67,24.9,2.3,Medium,Rainy,Afternoon,Bicycle,75.3
+9.51,25.7,3.9,Medium,Clear,Afternoon,Bicycle,57.9
+1.16,17.0,6.6,Medium,Clear,Night,Motorcycle,15.3
+2.02,13.9,2.0,Medium,Windy,Evening,Motorcycle,26.4
+3.16,15.7,0.4,High,Clear,Evening,Electric Bike,39.4
+8.22,15.9,0.2,Medium,Clear,Evening,Bicycle,49.4
+9.62,10.8,3.4,Medium,Clear,Evening,Scooter,38.3
+7.41,16.2,1.7,High,Rainy,Afternoon,Electric Bike,52.4
+2.48,18.9,1.9,High,Rainy,Night,Electric Bike,41.2
+3.72,24.1,3.0,Low,Rainy,Morning,Motorcycle,41.4
+6.59,18.1,2.4,High,Foggy,Afternoon,Scooter,47.7
+4.41,8.5,3.6,Medium,Clear,Afternoon,Electric Bike,21.4
+4.07,20.1,0.2,Medium,Clear,Evening,Scooter,38.4
+4.11,16.5,2.8,Low,Windy,Evening,Motorcycle,26.0
+9.14,26.2,3.8,Medium,Stormy,Evening,Motorcycle,64.7
+6.95,26.6,0.7,High,Clear,Morning,Motorcycle,53.1
+4.24,26.8,2.0,Medium,Rainy,Evening,Motorcycle,52.7
+6.05,14.6,0.8,High,Clear,Afternoon,Bicycle,52.2
+2.27,29.9,6.3,Low,Clear,Morning,Motorcycle,25.7
+3.72,20.1,0.2,Medium,Clear,Morning,Motorcycle,32.6
+8.68,27.8,1.7,Jam,Clear,Evening,Motorcycle,62.4
+1.8,15.0,0.4,High,Foggy,Afternoon,Scooter,35.6
+7.0,16.2,2.5,Low,Rainy,Evening,Scooter,42.5
+1.15,19.6,0.4,Medium,Clear,Evening,Motorcycle,36.4
+11.59,18.9,0.5,Low,Clear,Evening,Motorcycle,44.8
+3.67,25.5,1.4,Medium,Windy,Evening,Motorcycle,43.1
+6.29,16.6,4.9,High,Clear,Afternoon,Scooter,41.0
+5.4,25.0,0.5,High,,Afternoon,Motorcycle,55.5
+5.51,22.4,0.3,Low,Clear,Evening,Bicycle,50.3
+5.99,16.7,2.8,Jam,Rainy,Evening,Scooter,60.3
+1.59,21.9,1.4,Medium,Clear,Evening,Motorcycle,35.3
+5.57,15.2,4.9,Medium,Clear,Night,Scooter,23.7
+4.56,32.1,0.3,Medium,Clear,Morning,Motorcycle,50.6
+3.68,8.0,2.1,Medium,Clear,Morning,Scooter,18.1
+3.16,22.0,0.5,Medium,Clear,Evening,Motorcycle,36.9
+5.64,8.0,0.3,Medium,Foggy,Afternoon,Scooter,29.6
+2.76,16.6,2.3,Medium,Clear,Morning,Electric Bike,25.0
+8.6,17.5,1.8,Low,Clear,Night,Bicycle,43.0
+6.53,27.0,2.8,High,Rainy,Afternoon,Motorcycle,58.2
+5.83,13.8,0.7,Medium,Rainy,Night,Motorcycle,32.8
+8.41,25.8,1.2,Low,Stormy,Evening,Scooter,61.0
+1.42,10.9,1.0,High,Rainy,Evening,Bicycle,41.5
+2.23,26.1,8.0,Jam,Rainy,Afternoon,Bicycle,57.7
+6.69,15.2,0.7,Jam,Rainy,Afternoon,Motorcycle,56.6
+3.27,18.4,0.7,Medium,Stormy,Evening,Motorcycle,45.3
+3.52,16.0,0.9,Low,Windy,Morning,Scooter,22.4
+2.02,25.7,,Medium,Clear,Afternoon,Motorcycle,37.2
+2.77,24.5,0.6,Low,Clear,Afternoon,Motorcycle,30.1
+8.7,20.7,4.9,Jam,Clear,Morning,Motorcycle,51.9
+6.61,11.1,0.6,Low,Rainy,Afternoon,Scooter,34.6
+5.61,13.7,4.5,Medium,Foggy,Evening,Bicycle,45.5
+3.6,11.8,0.2,Medium,Rainy,Morning,Bicycle,42.3
+5.42,8.0,2.1,Medium,Clear,Morning,Motorcycle,25.5
+9.09,25.6,4.8,High,Foggy,Evening,Scooter,56.0
+3.32,16.0,0.4,Medium,Windy,Night,Electric Bike,30.9
+4.97,16.0,6.9,Low,Clear,Afternoon,Motorcycle,18.8
+11.97,27.0,1.2,Medium,Foggy,Morning,Scooter,64.0
+7.36,15.1,5.8,Medium,Clear,Evening,Motorcycle,33.9
+3.63,13.0,2.3,Low,Windy,Night,Motorcycle,22.4
+7.05,16.7,0.7,Medium,Windy,Evening,Motorcycle,40.3
+1.78,11.2,0.4,Medium,Rainy,Evening,Motorcycle,29.7
+4.86,20.1,0.7,High,Foggy,Afternoon,Scooter,45.2
+7.05,15.8,0.2,Jam,Windy,Evening,Motorcycle,50.5
+6.23,15.0,0.3,Jam,Rainy,Morning,Motorcycle,50.8
+7.01,14.4,0.2,Jam,Clear,Evening,Motorcycle,46.7
+7.83,17.4,1.1,Low,Foggy,Evening,Electric Bike,44.1
+6.49,18.5,3.2,Low,Clear,Night,Scooter,27.6
+6.39,14.9,0.3,Medium,Clear,Afternoon,Scooter,35.5
+5.68,15.8,0.3,High,Windy,Morning,Scooter,42.4
+2.57,17.5,2.1,Jam,Foggy,Evening,Motorcycle,49.6
+8.7,16.9,0.4,High,Clear,Evening,Motorcycle,51.0
+4.95,18.2,0.2,Low,Clear,Evening,Scooter,33.3
+7.27,13.9,0.4,Jam,Clear,Morning,Motorcycle,44.2
+8.24,24.0,5.1,Medium,Clear,Afternoon,Motorcycle,47.2
+3.73,18.6,3.4,Low,Clear,Evening,Scooter,31.1
+3.93,15.0,0.9,Medium,Foggy,Afternoon,Motorcycle,33.5
+4.24,20.1,2.1,Low,Clear,Night,Motorcycle,27.1
+9.55,17.6,1.5,Medium,Rainy,Evening,Scooter,55.2
+2.92,8.0,2.3,Medium,Clear,Evening,Motorcycle,20.7
+10.4,20.0,2.3,Medium,Stormy,Evening,Scooter,63.9
+5.65,11.9,2.0,Medium,Clear,Evening,Scooter,33.0
+5.87,23.6,0.6,High,Clear,Afternoon,Scooter,46.2
+8.05,16.5,0.2,High,Clear,Evening,Scooter,44.8
+5.3,22.7,1.2,Medium,Rainy,Afternoon,Motorcycle,41.6
+8.75,14.2,4.4,High,Rainy,Evening,Motorcycle,53.2
+3.73,18.4,1.7,Jam,Clear,Afternoon,Motorcycle,40.2
+10.23,25.3,3.6,Low,Clear,Evening,Motorcycle,47.6
+3.9,16.4,8.0,Medium,Clear,Afternoon,Bicycle,27.4
+10.43,14.5,0.4,Medium,Rainy,Afternoon,Electric Bike,53.1
+3.96,21.9,2.4,Low,Rainy,Night,Motorcycle,34.7
+4.31,21.8,2.2,High,Clear,Morning,Motorcycle,40.1
+2.71,14.7,7.8,High,Clear,Evening,Motorcycle,26.3
+3.18,8.0,8.0,Low,Clear,Night,Motorcycle,12.0
+4.97,14.3,2.3,High,Clear,Morning,Motorcycle,33.2
+5.76,22.1,0.6,High,Rainy,Evening,Scooter,54.8
+8.42,13.3,3.2,Jam,Clear,Afternoon,Electric Bike,55.8
+4.48,17.9,0.2,Medium,Clear,Morning,Scooter,28.5
+2.5,14.1,3.0,Jam,Clear,Afternoon,Motorcycle,36.0
+6.24,8.0,4.8,Medium,Stormy,Night,Motorcycle,38.0
+5.56,13.9,1.0,Medium,Windy,Morning,Scooter,29.6
+6.6,22.0,2.0,Low,Clear,Evening,Electric Bike,42.1
+3.46,8.0,1.1,Low,Clear,Evening,Electric Bike,21.3
+3.7,19.5,1.2,High,Clear,Night,Bicycle,40.2
+3.46,10.9,,Medium,Rainy,Morning,Scooter,31.5
+9.26,21.7,2.9,Medium,Clear,Evening,Scooter,49.8
+10.28,22.3,5.5,Low,Foggy,Evening,Motorcycle,46.1
+3.61,17.0,5.7,High,Rainy,Evening,Scooter,46.1
+3.65,17.0,0.4,Low,Windy,Night,Motorcycle,27.4
+7.09,13.2,4.2,High,Clear,Evening,Motorcycle,37.3
+10.87,9.9,2.7,Low,Windy,Morning,Scooter,36.9
+12.09,28.2,0.6,Low,Foggy,Evening,Motorcycle,58.3
+3.51,12.8,0.2,Medium,Clear,Afternoon,Motorcycle,27.7
+4.04,27.4,0.6,Medium,Clear,Afternoon,Motorcycle,39.2
+5.92,12.8,4.9,Medium,Clear,Evening,Motorcycle,28.8
+6.08,21.2,2.0,Medium,Clear,Afternoon,Motorcycle,37.1
+4.58,11.2,2.6,Jam,Clear,Afternoon,Motorcycle,38.5
+3.12,21.1,0.6,Medium,Rainy,Night,Motorcycle,34.1
+4.97,16.0,,Low,Clear,Morning,Motorcycle,25.4
+12.09,16.1,0.2,Medium,Stormy,Night,Bicycle,75.8
+3.73,21.7,0.9,High,Clear,Evening,Motorcycle,44.1
+5.73,15.2,2.0,Medium,Stormy,Evening,Motorcycle,49.0
+16.2,9.4,0.3,Low,Clear,Evening,Scooter,49.1
+3.7,22.6,3.5,High,Foggy,Afternoon,Electric Bike,42.1
+7.27,11.1,0.5,Medium,Clear,Afternoon,Scooter,29.9
+12.35,21.1,2.1,Medium,Clear,Afternoon,Motorcycle,49.7
+6.94,23.8,1.0,Low,Windy,Afternoon,Scooter,42.6
+8.92,15.7,1.8,Low,Clear,Night,Scooter,31.7
+7.78,25.1,0.2,Medium,Foggy,Evening,Scooter,57.6
+6.65,20.9,0.2,Low,Rainy,Morning,Scooter,43.6
+10.11,13.8,4.8,Medium,Rainy,Morning,Electric Bike,52.1
+7.15,26.4,0.6,Medium,Rainy,Afternoon,Electric Bike,62.1
+4.61,11.1,3.4,Medium,Foggy,Morning,Scooter,29.4
+5.5,15.7,8.0,Jam,Clear,Evening,Motorcycle,44.2
+6.19,16.8,0.5,High,Foggy,Morning,Scooter,44.5
+4.03,21.6,0.6,High,Windy,Evening,Electric Bike,51.6
+5.63,24.7,2.2,Low,Clear,Morning,Motorcycle,35.0
+5.2,24.3,6.7,Low,Clear,Afternoon,Bicycle,38.2
+7.14,19.3,4.9,Medium,Foggy,Evening,Motorcycle,40.4
+14.06,16.3,1.4,Low,Clear,Evening,Scooter,48.6
+5.81,8.0,3.2,Jam,Clear,Night,Electric Bike,36.3
+11.02,10.1,0.3,Low,Clear,Night,Motorcycle,32.6
+7.0,28.6,7.6,Medium,Rainy,Afternoon,Scooter,55.5
+5.62,8.0,6.7,Medium,Clear,Morning,Motorcycle,21.1
+3.9,13.3,0.4,Medium,Rainy,Evening,Motorcycle,44.2
+5.64,24.9,0.7,Low,Foggy,Night,Motorcycle,39.2
+5.45,19.3,0.2,Medium,Clear,Evening,Motorcycle,40.2
+3.32,23.6,0.6,Medium,Rainy,Morning,Motorcycle,40.5
+3.64,21.3,3.4,High,Stormy,Night,Bicycle,55.7
+6.22,26.8,1.0,Low,Foggy,Afternoon,Bicycle,50.7
+10.96,19.8,0.2,Jam,Windy,Evening,Motorcycle,66.8
+4.88,22.0,0.8,High,Clear,Night,Scooter,41.8
+1.96,13.7,8.0,Medium,Foggy,Afternoon,Motorcycle,17.9
+1.03,21.5,2.0,High,Clear,Night,Motorcycle,31.3
+2.68,15.6,1.1,Low,Clear,Afternoon,Motorcycle,26.0
+7.36,15.3,0.4,Jam,Clear,Night,Bicycle,59.5
+2.23,23.4,8.0,Medium,Clear,Afternoon,Bicycle,33.3
+7.98,23.4,3.4,Medium,Windy,Night,Motorcycle,43.4
+7.15,28.1,0.7,Medium,Clear,Morning,Motorcycle,45.9
+4.79,27.7,0.2,Low,Foggy,Evening,Motorcycle,46.4
+3.34,23.5,0.2,Jam,Foggy,Evening,Scooter,59.0
+4.41,8.0,0.3,Low,Rainy,Evening,Scooter,27.9
+6.14,29.0,1.7,High,Clear,Afternoon,Motorcycle,53.4
+2.27,23.5,5.3,Medium,Rainy,Evening,Electric Bike,46.0
+10.39,13.4,1.4,Jam,Clear,Morning,Motorcycle,50.1
+6.11,22.4,3.7,Low,Clear,Evening,Bicycle,44.1
+6.48,11.8,1.2,Medium,Stormy,Afternoon,Scooter,43.2
+7.13,21.7,2.5,Medium,Clear,Night,Motorcycle,42.2
+9.87,10.1,2.6,High,Clear,Morning,Electric Bike,43.7
+5.65,13.2,0.4,Low,Windy,Morning,Electric Bike,32.4
+7.37,22.3,0.9,Low,Clear,Afternoon,Motorcycle,36.8
+3.37,24.4,2.0,Low,Foggy,Afternoon,Motorcycle,35.5
+12.12,20.0,0.2,High,Clear,Afternoon,Bicycle,71.7
+5.44,16.3,0.9,Low,Clear,Evening,Motorcycle,28.4
+3.36,8.0,1.5,Medium,Clear,Night,Motorcycle,19.9
+3.9,16.7,8.0,Low,Clear,Evening,Scooter,21.5
+1.37,21.2,1.3,High,Clear,Evening,Electric Bike,40.3
+3.88,16.1,3.4,Jam,Foggy,Morning,Electric Bike,47.7
+1.0,17.9,1.1,Medium,Rainy,Evening,Bicycle,40.3
+7.65,16.9,3.2,Medium,Stormy,Morning,Scooter,48.6
+6.38,16.1,1.8,Low,Clear,Evening,Motorcycle,34.1
+2.78,18.5,4.4,Low,Rainy,Afternoon,Scooter,31.2
+4.93,16.4,1.1,Medium,Rainy,Afternoon,Electric Bike,49.4
+5.06,26.7,1.9,High,Stormy,Afternoon,Motorcycle,57.3
+2.43,8.0,2.0,Medium,Clear,Night,Motorcycle,21.8
+4.46,14.7,1.1,Jam,Rainy,Morning,Motorcycle,49.3
+5.14,12.8,0.3,Medium,Windy,Evening,Scooter,35.9
+4.39,19.3,0.2,High,Clear,Morning,Electric Bike,40.4
+3.36,18.5,0.2,Medium,Windy,Evening,Scooter,33.6
+2.72,27.7,4.1,Medium,Clear,Night,Bicycle,37.6
+4.31,29.7,0.5,Medium,Foggy,Afternoon,Motorcycle,47.9
+3.61,13.4,0.5,Medium,Stormy,Evening,Bicycle,49.2
+6.88,18.0,2.7,Medium,Foggy,Night,Electric Bike,46.2
+10.19,19.2,0.8,High,Clear,Evening,Motorcycle,53.4
+8.18,13.2,1.4,Jam,Clear,Evening,Bicycle,63.5
+5.24,21.8,0.4,Medium,Stormy,Evening,Motorcycle,55.6
+3.44,16.6,6.4,Low,Rainy,Evening,Electric Bike,29.9
+8.07,11.6,3.8,Medium,Clear,Morning,Electric Bike,30.8
+7.1,16.3,4.0,Medium,Foggy,Evening,Electric Bike,42.3
+9.82,12.0,1.0,Low,Rainy,Afternoon,Scooter,41.5
+5.65,24.2,2.9,High,Clear,Morning,Motorcycle,39.5
+11.79,29.4,0.3,Jam,Clear,Evening,Scooter,75.3
+5.65,19.5,0.2,Jam,Clear,Afternoon,Motorcycle,46.5
+3.43,18.7,0.2,Low,Rainy,Morning,Electric Bike,38.0
+3.81,18.9,1.8,High,Rainy,Evening,Electric Bike,52.3
+6.71,25.1,1.2,High,Rainy,Night,Bicycle,65.8
+3.6,25.0,1.5,Medium,Windy,Night,Motorcycle,33.5
+11.75,17.3,0.2,Medium,Windy,Night,Electric Bike,54.0
+6.41,19.5,1.1,High,Rainy,Night,Bicycle,60.8
+5.18,21.9,2.5,Medium,Clear,Morning,Electric Bike,40.7
+5.42,11.2,1.2,Medium,Foggy,Afternoon,Motorcycle,36.0
+4.37,25.3,2.6,Medium,Clear,Evening,Motorcycle,43.6
+1.65,28.4,0.5,Medium,Rainy,Afternoon,Motorcycle,46.5
+3.81,25.0,3.4,Low,Rainy,Evening,Scooter,43.3
+11.0,10.5,1.8,Jam,Clear,Evening,Scooter,53.5
+5.73,8.0,0.5,High,Windy,Afternoon,Bicycle,45.4
+8.67,22.3,0.5,Medium,Clear,Night,Motorcycle,43.4
+8.8,13.4,2.0,Low,Foggy,Evening,Motorcycle,39.7
+4.96,19.7,3.5,Medium,Clear,Evening,Scooter,35.6
+7.16,27.2,1.1,Low,Stormy,Night,Electric Bike,56.2
+1.77,14.1,0.6,Low,Clear,Evening,Bicycle,23.7
+10.54,15.7,4.0,Medium,Clear,Morning,Electric Bike,44.3
+10.1,19.7,,Medium,Clear,Evening,Motorcycle,46.7
+6.61,10.2,1.2,Medium,Clear,Evening,Scooter,30.9
+5.85,13.5,1.3,Low,Clear,Evening,Electric Bike,32.5
+4.99,18.1,0.5,Medium,Rainy,Evening,Scooter,49.0
+9.19,16.2,2.0,Low,Clear,Evening,Motorcycle,32.7
+7.6,21.7,0.9,Jam,Clear,Afternoon,Motorcycle,50.0
+1.0,34.6,8.0,Medium,Clear,Night,Motorcycle,38.4
+4.1,18.6,1.3,High,Windy,Night,Scooter,36.2
+2.5,12.9,1.3,Medium,Foggy,Morning,Motorcycle,26.1
+2.2,26.5,1.7,Low,Foggy,Morning,Motorcycle,36.8
+9.14,8.5,5.0,Jam,Foggy,Night,Motorcycle,45.0
+4.93,9.7,3.2,Medium,Clear,Night,Scooter,22.5
+6.55,14.4,1.2,Medium,Clear,Night,Motorcycle,30.8
+5.29,16.3,2.5,Medium,Clear,Night,Scooter,36.6
+2.22,14.3,1.8,Low,Windy,Evening,Motorcycle,28.8
+1.8,17.8,1.4,High,Stormy,Evening,Motorcycle,47.9
+3.94,19.6,0.4,Medium,Rainy,Evening,Scooter,48.1
+4.14,24.4,1.2,Medium,Clear,Morning,Motorcycle,37.9
+4.14,18.5,0.6,Low,Clear,Evening,Motorcycle,30.7
+4.2,14.6,4.9,Low,Clear,Evening,Motorcycle,21.5
+13.58,24.1,0.8,High,Rainy,Evening,Electric Bike,83.2
+8.6,13.1,6.1,High,Clear,Evening,Scooter,41.4
+5.78,8.2,1.5,Low,Stormy,Evening,Motorcycle,35.9
+4.87,25.2,2.0,Low,Clear,Morning,Motorcycle,31.9
+4.96,24.9,1.6,High,Windy,Afternoon,Bicycle,58.0
+7.45,13.2,0.3,Medium,Foggy,Morning,Scooter,37.3
+4.84,15.6,0.9,Medium,Foggy,Morning,Motorcycle,32.6
+8.15,12.5,0.2,Medium,Rainy,Night,Scooter,44.8
+6.12,20.0,2.0,Low,Rainy,Morning,Electric Bike,43.3
+13.64,28.4,1.2,High,Rainy,Afternoon,Electric Bike,83.0
+4.68,22.2,3.0,Jam,Rainy,Evening,Scooter,63.8
+8.92,24.2,0.5,Low,Rainy,Evening,Motorcycle,57.0
+2.65,22.9,0.4,Medium,Stormy,Morning,Motorcycle,41.9
+3.49,18.0,1.0,Medium,Foggy,Evening,Bicycle,43.3
+12.7,24.5,5.2,Medium,Foggy,Evening,Scooter,58.4
+7.97,22.5,2.5,Medium,Windy,Afternoon,Motorcycle,43.4
+6.61,26.6,1.1,High,Clear,Afternoon,Bicycle,60.7
+15.45,15.2,1.5,Medium,Clear,Night,Bicycle,70.8
+4.9,8.0,0.2,Medium,Rainy,Evening,Bicycle,40.0
+8.91,24.3,8.0,Medium,Rainy,Evening,Electric Bike,56.4
+9.25,20.1,2.2,Low,Windy,Morning,Bicycle,55.1
+11.29,16.2,0.7,Low,Clear,Afternoon,Motorcycle,42.2
+2.45,16.6,1.8,High,Rainy,Evening,Electric Bike,40.6
+4.89,33.3,0.2,Low,Rainy,Morning,Electric Bike,54.3
+6.06,14.1,6.8,High,Clear,Afternoon,Motorcycle,34.5
+11.19,12.9,0.4,Medium,Rainy,Evening,Motorcycle,51.2
+6.47,18.5,2.1,Medium,Windy,Afternoon,Bicycle,45.3
+9.26,25.1,0.6,Medium,Clear,Evening,Motorcycle,50.1
+2.31,31.7,2.5,Medium,Rainy,Evening,Electric Bike,54.4
+4.27,21.9,3.0,Low,Rainy,Afternoon,Motorcycle,37.3
+10.08,10.4,2.2,Medium,Clear,Evening,Motorcycle,36.8
+4.59,29.8,1.9,High,Clear,Morning,Scooter,49.5
+5.11,17.9,4.5,High,Stormy,Evening,Motorcycle,52.2
+11.1,13.0,0.2,Medium,Clear,Morning,Scooter,43.6
+3.02,11.5,0.8,Medium,Clear,Morning,Scooter,21.6
+3.46,23.0,0.6,Low,Clear,Evening,Motorcycle,31.5
+2.16,19.4,8.0,Low,Foggy,Evening,Motorcycle,32.7
+11.33,20.1,1.0,Low,Rainy,Night,Motorcycle,49.1
+8.52,25.7,2.6,High,Rainy,Afternoon,Motorcycle,54.3
+8.41,13.2,2.3,Low,Clear,Afternoon,Electric Bike,37.9
+4.2,26.2,0.5,Low,Windy,Evening,Motorcycle,44.1
+2.05,14.9,0.5,Medium,Clear,Evening,Motorcycle,28.9
+1.68,31.0,0.7,Low,Clear,Afternoon,Scooter,37.5
+10.12,21.6,1.1,Medium,Rainy,Evening,Motorcycle,62.7
+6.85,12.5,0.5,Low,Clear,Evening,Motorcycle,27.5
+7.55,8.0,0.2,Low,Windy,Night,Motorcycle,25.1
+5.91,22.9,4.2,Medium,Stormy,Night,Electric Bike,58.5
+3.21,15.8,6.7,Medium,Clear,Afternoon,Bicycle,33.4
+4.31,17.1,0.8,High,Windy,Evening,Electric Bike,44.6
+2.74,22.6,0.8,Medium,Foggy,Afternoon,Motorcycle,43.4
+2.53,24.1,0.2,Medium,Stormy,Evening,Motorcycle,54.1
+8.16,25.3,2.3,High,Clear,Evening,Scooter,59.8
+1.78,11.0,3.5,Low,Rainy,Night,Scooter,23.0
+2.75,26.6,0.3,Medium,Clear,Evening,Bicycle,46.0
+4.45,14.5,0.3,Medium,Windy,Night,Motorcycle,35.3
+5.37,8.0,3.1,Medium,Clear,Evening,Motorcycle,23.8
+2.14,10.9,1.9,Medium,Rainy,Night,Scooter,32.0
+1.75,19.3,0.2,High,Clear,Evening,Electric Bike,44.1
+6.43,12.1,1.9,Jam,Clear,Evening,Electric Bike,53.3
+5.73,17.5,0.7,Medium,Rainy,Afternoon,Scooter,43.8
+10.03,20.0,0.9,Medium,Windy,Afternoon,Bicycle,63.0
+5.42,16.9,2.9,Low,Rainy,Morning,Scooter,32.5
+6.78,15.0,3.3,Medium,Windy,Evening,Bicycle,46.5
+3.32,10.5,1.0,Medium,Clear,Evening,Bicycle,32.0
+3.4,18.1,5.9,Medium,Rainy,Evening,Electric Bike,36.9
+2.29,8.0,1.0,Jam,Rainy,Night,Motorcycle,37.8
+3.34,13.9,3.0,Medium,Clear,Night,Motorcycle,27.5
+4.27,12.4,1.3,Medium,Rainy,Morning,Scooter,34.0
+9.51,16.6,4.6,Medium,Foggy,Afternoon,Scooter,47.1
+3.04,16.7,4.8,High,Rainy,Afternoon,Electric Bike,43.2
+13.96,23.8,0.2,High,Foggy,Afternoon,Motorcycle,66.2
+7.09,27.5,5.5,Medium,Rainy,Evening,Motorcycle,54.1
+6.34,11.3,3.5,Medium,Clear,Evening,Electric Bike,34.7
+5.19,30.0,3.1,High,Clear,Evening,Motorcycle,47.9
+4.66,13.3,0.4,Low,Rainy,Night,Motorcycle,32.9
+3.64,19.0,3.3,High,Clear,Evening,Motorcycle,38.5
+2.08,21.1,3.8,Medium,Clear,Morning,Scooter,30.5
+3.11,32.7,0.7,Medium,Clear,Evening,Motorcycle,48.4
+11.31,14.7,6.1,Medium,Rainy,Afternoon,Electric Bike,53.6
+6.87,8.0,0.2,High,Clear,Afternoon,Motorcycle,33.5
+11.26,26.9,0.3,Low,Foggy,Morning,Bicycle,71.4
+3.58,13.0,1.5,High,Rainy,Evening,Scooter,46.9
+2.69,15.8,1.7,Medium,Clear,Afternoon,Motorcycle,26.2
+5.16,11.3,2.1,Medium,Foggy,Afternoon,Motorcycle,31.5
+3.18,15.8,0.2,Low,Rainy,Evening,Motorcycle,32.0
+5.76,13.0,6.5,Medium,Rainy,Evening,Scooter,38.1
+1.8,22.1,0.2,Medium,Rainy,Afternoon,Motorcycle,43.8
+1.25,18.5,0.3,Medium,Clear,Morning,Motorcycle,27.1
+6.21,13.9,0.2,High,Foggy,Evening,Scooter,44.7
+11.48,24.0,1.7,Medium,Clear,Morning,Motorcycle,47.1
+6.36,19.5,5.4,Jam,Stormy,Night,Motorcycle,57.9
+6.83,8.0,2.2,Medium,Windy,Evening,Electric Bike,38.2
+5.29,23.5,3.5,High,Rainy,Afternoon,Bicycle,62.0
+5.56,19.1,0.2,Low,Clear,Afternoon,Motorcycle,22.9
+2.01,26.3,1.6,Medium,Clear,Morning,Motorcycle,34.1
+3.25,18.7,1.2,Medium,Clear,Afternoon,Bicycle,35.7
+9.46,13.2,1.4,Medium,Rainy,Morning,Motorcycle,41.3
+2.55,16.8,0.2,High,Clear,Evening,Bicycle,39.9
+4.22,22.8,2.3,Low,Rainy,Morning,Motorcycle,41.6
+9.36,13.4,1.4,Low,Clear,Evening,Electric Bike,42.2
+5.48,15.4,2.9,High,Stormy,Evening,Motorcycle,51.7
+5.63,16.7,1.3,Low,Clear,Afternoon,Bicycle,36.4
+4.24,11.1,0.3,High,Stormy,Morning,Motorcycle,43.7
+7.36,13.5,2.1,Medium,Windy,Morning,Scooter,36.1
+8.31,19.0,0.4,High,Rainy,Morning,Motorcycle,50.6
+3.14,25.2,4.1,Low,Foggy,Evening,Motorcycle,36.3
+2.14,19.9,1.9,Low,Clear,Afternoon,Electric Bike,28.4
+1.43,17.7,0.3,Medium,Rainy,Evening,Scooter,38.3
+6.66,13.0,6.6,Jam,Clear,Afternoon,Bicycle,48.7
+6.26,24.6,1.5,Medium,Clear,Evening,Motorcycle,42.6
+16.0,20.6,0.2,Medium,Rainy,Evening,Electric Bike,81.0
+5.3,13.8,2.0,Medium,Rainy,Evening,Motorcycle,38.9
+4.79,23.4,0.6,Jam,Rainy,Afternoon,Bicycle,69.0
+5.87,21.4,3.3,High,Clear,Morning,Bicycle,48.9
+6.04,13.1,3.4,Jam,Clear,Evening,Motorcycle,42.0
+4.58,17.4,7.7,Low,Clear,Afternoon,Electric Bike,25.9
+3.21,15.0,1.4,Low,Clear,Afternoon,Electric Bike,23.9
+5.15,33.8,1.2,Medium,Clear,Evening,Motorcycle,53.6
+5.04,21.2,2.8,High,Clear,Evening,Scooter,47.3
+5.0,19.1,0.3,Medium,Clear,Evening,Motorcycle,36.8
+7.77,20.8,1.6,Low,Windy,Evening,Electric Bike,47.8
+5.1,26.3,1.6,High,Clear,Evening,Motorcycle,49.1
+2.17,17.5,0.2,Low,Foggy,Evening,Motorcycle,32.9
+3.52,14.5,1.1,Medium,Clear,Evening,Motorcycle,30.2
+4.55,23.1,3.8,Medium,Windy,Evening,Scooter,40.3
+5.23,17.0,3.9,Medium,Rainy,Night,Electric Bike,39.2
+6.73,11.6,0.2,High,Clear,Afternoon,Bicycle,47.5
+5.25,10.4,0.2,Medium,Rainy,Afternoon,Motorcycle,37.8
+1.27,27.2,0.6,Medium,Clear,Evening,Motorcycle,40.8
+2.34,18.8,4.2,Medium,,Evening,Scooter,36.3
+6.97,14.5,0.3,Medium,Clear,Morning,Scooter,32.4
+4.48,16.6,2.5,Medium,Stormy,Night,Motorcycle,40.4
+5.5,22.8,0.2,Medium,Clear,Morning,Motorcycle,36.9
+4.17,16.2,2.0,Low,Clear,Evening,Scooter,24.1
+3.51,9.3,0.9,Low,Foggy,Evening,Motorcycle,27.0
+4.25,20.0,3.1,Low,Clear,Night,Electric Bike,27.9
+5.54,25.3,0.5,Medium,Windy,Morning,Scooter,45.7
+5.08,24.8,2.0,High,Rainy,Evening,Electric Bike,59.5
+8.28,14.6,0.5,High,Foggy,Afternoon,Scooter,49.1
+1.91,25.6,2.5,High,Clear,Afternoon,Motorcycle,38.1
+2.09,19.3,4.1,Medium,Windy,Morning,Electric Bike,29.5
+4.45,25.4,0.3,Medium,Foggy,Evening,Scooter,46.9
+6.77,21.4,4.0,Medium,Clear,Evening,Motorcycle,40.4
+7.55,8.9,1.8,Low,Clear,Morning,Scooter,27.9
+3.6,28.5,0.3,Low,Clear,Evening,Motorcycle,41.2
+1.0,18.3,1.1,Medium,Stormy,Evening,Electric Bike,44.2
+3.67,21.5,0.4,Jam,Clear,Evening,Scooter,48.7
+6.27,9.9,2.4,Low,Rainy,Night,Scooter,31.6
+5.02,21.0,2.8,Low,Clear,Afternoon,Motorcycle,31.8
+6.9,24.6,0.2,High,Clear,Night,Motorcycle,48.9
+9.29,29.6,1.4,Medium,Rainy,Night,Bicycle,74.2
+4.63,26.4,3.4,High,Stormy,Afternoon,Electric Bike,61.8
+3.91,21.3,5.5,High,Rainy,Morning,Motorcycle,46.0
+2.94,8.7,1.4,Jam,Windy,Afternoon,Motorcycle,38.9
+2.08,18.8,6.0,Medium,Rainy,Afternoon,Motorcycle,33.9
+1.72,14.4,1.5,High,Clear,Evening,Scooter,30.1
+3.39,19.4,1.0,Medium,Clear,Evening,Electric Bike,34.6
+8.64,10.7,3.8,Medium,Rainy,Evening,Scooter,45.7
+7.25,16.7,1.4,Medium,Stormy,Evening,Scooter,52.1
+3.8,14.9,1.3,Low,Windy,Morning,Electric Bike,27.6
+14.03,14.7,1.3,Medium,Clear,Night,Motorcycle,43.9
+3.53,14.8,3.8,Medium,Clear,Afternoon,Motorcycle,22.4
+9.75,17.2,3.6,High,Clear,Night,Scooter,48.0
+10.94,19.7,1.0,High,Stormy,Morning,Bicycle,83.3
+6.49,8.0,0.8,High,Windy,Night,Electric Bike,34.2
+3.37,8.0,1.4,Low,Foggy,Morning,Scooter,21.2
+4.1,16.0,1.7,High,Clear,Afternoon,Scooter,36.6
+5.61,16.8,0.5,Medium,Rainy,Morning,Bicycle,51.5
+2.12,19.1,3.2,High,Rainy,Evening,Motorcycle,45.0
+2.77,13.6,1.3,Jam,Clear,Night,Motorcycle,39.7
+2.63,18.1,0.8,Low,Rainy,Afternoon,Bicycle,36.6
+6.75,18.8,0.2,High,Clear,Night,Electric Bike,46.2
+9.25,13.6,0.5,Low,Clear,Evening,Motorcycle,33.0
+7.4,24.1,6.0,Medium,Windy,Evening,Scooter,44.9
+8.46,19.1,0.7,Medium,Foggy,Evening,Motorcycle,46.3
+3.2,21.3,0.4,Low,Clear,Afternoon,Motorcycle,29.4
+4.2,18.4,1.2,High,Rainy,Afternoon,Bicycle,52.1
+4.39,30.6,0.7,Low,Clear,Night,Motorcycle,39.5
+6.48,21.6,0.2,Low,Foggy,Night,Electric Bike,40.6
+3.45,15.1,0.8,Medium,Foggy,Night,Motorcycle,28.8
+8.19,22.9,1.6,High,Foggy,Night,Scooter,52.8
+10.78,8.2,1.6,Jam,Foggy,Morning,Motorcycle,56.1
+6.65,18.7,0.9,High,Clear,Evening,Electric Bike,50.1
+4.1,19.9,1.2,High,Clear,Afternoon,Scooter,40.0
+3.03,18.8,6.7,Medium,Rainy,Night,Scooter,33.5
+2.64,16.0,0.9,Low,Clear,Evening,Motorcycle,28.9
+1.28,11.9,0.6,Low,Foggy,Evening,Motorcycle,19.9
+4.46,13.3,0.6,Medium,Clear,Evening,Motorcycle,30.5
+4.32,18.6,1.2,High,Clear,Afternoon,Motorcycle,34.3
+7.93,11.3,2.9,Medium,Clear,Morning,Scooter,25.6
+3.58,28.6,0.5,High,Stormy,Night,Scooter,59.0
+4.61,8.0,2.5,Medium,Clear,Evening,Scooter,26.3
+5.91,16.1,0.2,Low,Rainy,Morning,Scooter,35.9
+6.6,18.7,1.1,Low,,Evening,Motorcycle,36.0
+7.46,21.0,3.0,High,Clear,Evening,Motorcycle,48.3
+5.6,12.5,0.8,High,Rainy,Afternoon,Motorcycle,42.9
+2.2,24.8,1.7,High,Foggy,Afternoon,Electric Bike,49.7
+6.29,9.6,0.5,Low,Rainy,Night,Scooter,30.0
+3.43,14.6,2.7,Jam,Windy,Evening,Motorcycle,45.3
+9.47,21.7,0.2,Low,Clear,Evening,Motorcycle,39.7
+5.13,24.2,3.8,Low,Clear,Evening,Electric Bike,39.7
+5.78,9.6,0.4,Jam,Stormy,Morning,Scooter,53.8
+16.67,33.9,4.1,Medium,Clear,Evening,Scooter,72.5
+7.53,12.6,0.9,High,Rainy,Morning,Motorcycle,46.8
+6.23,10.1,2.6,Low,Foggy,Afternoon,Motorcycle,24.9
+4.68,21.0,0.8,Medium,Clear,Evening,Bicycle,50.0
+2.32,15.9,4.7,Jam,Foggy,Night,Electric Bike,35.9
+4.49,15.0,0.3,Medium,Clear,Afternoon,Motorcycle,30.2
+3.01,21.6,0.4,High,Clear,Afternoon,Electric Bike,41.6
+11.46,8.8,1.4,Low,Clear,Evening,Electric Bike,41.3
+6.28,8.0,0.2,Medium,Windy,Night,Motorcycle,25.7
+9.29,14.4,0.4,Medium,Clear,Evening,Motorcycle,41.0
+3.52,24.5,5.8,Low,Foggy,Night,Motorcycle,34.7
+3.14,14.7,7.5,Medium,Stormy,Evening,Motorcycle,34.4
+7.15,27.6,0.9,Low,Rainy,Evening,Scooter,53.5
+2.94,25.2,5.1,Jam,Rainy,Morning,Motorcycle,51.8
+3.92,19.7,1.6,Medium,Rainy,Afternoon,Electric Bike,40.9
+11.75,20.0,0.6,Low,Clear,Afternoon,Bicycle,62.3
+4.01,19.7,2.4,Medium,Rainy,Evening,Motorcycle,44.7
+2.01,19.0,2.2,Medium,Rainy,Night,Scooter,37.6
+1.53,15.8,8.0,High,Stormy,Night,Electric Bike,40.2
+1.85,16.5,0.6,Jam,Stormy,Morning,Electric Bike,55.4
+9.58,11.6,2.2,Medium,Windy,Morning,Electric Bike,39.0
+3.65,8.0,0.2,High,Windy,Afternoon,Motorcycle,33.2
+16.4,24.6,0.2,Medium,Rainy,Afternoon,Scooter,73.4
+10.85,18.9,0.2,Low,Foggy,Evening,Scooter,54.0
+13.19,18.0,8.0,High,Windy,Night,Bicycle,67.0
+8.58,20.4,3.2,Medium,Clear,Night,Motorcycle,38.3
+6.95,13.0,3.1,High,Stormy,Evening,Bicycle,66.1
+3.08,12.0,1.4,High,Clear,Evening,Motorcycle,32.2
+5.06,16.3,0.7,Medium,Rainy,Evening,Bicycle,49.2
+7.32,26.2,0.3,Jam,Foggy,Afternoon,Scooter,69.5
+8.3,11.0,0.7,High,Stormy,Evening,Scooter,54.6
+2.46,8.0,0.9,Medium,Clear,Evening,Scooter,21.9
+4.54,14.9,2.8,Medium,Foggy,Evening,Motorcycle,37.2
+4.83,24.9,1.6,Medium,Rainy,Afternoon,Motorcycle,52.7
+4.73,8.0,0.2,Jam,Clear,Afternoon,Motorcycle,35.5
+2.67,10.9,0.2,High,Foggy,Afternoon,Motorcycle,32.5
+12.39,19.6,0.2,Low,Rainy,Night,Motorcycle,50.3
+4.45,33.4,1.1,Medium,Foggy,Afternoon,Electric Bike,56.0
+2.8,9.9,5.4,Medium,Clear,Evening,Scooter,22.6
+12.55,9.6,2.0,Low,Rainy,Evening,Motorcycle,47.4
+10.85,20.0,3.2,Low,Rainy,Afternoon,Electric Bike,57.6
+5.48,25.2,1.3,Medium,Clear,Evening,Scooter,44.0
+1.52,14.3,0.9,Medium,Clear,Night,Bicycle,25.7
+3.85,8.3,0.2,Medium,Stormy,Evening,Scooter,40.0
+1.75,20.6,4.2,Medium,Rainy,Night,Motorcycle,36.0
+6.67,21.7,3.1,Low,Foggy,Afternoon,Scooter,42.3
+3.7,28.7,0.4,High,Clear,Morning,Scooter,51.6
+4.99,21.9,1.4,Medium,Clear,Night,Motorcycle,34.2
+11.97,23.0,1.3,Low,Clear,Evening,Motorcycle,47.9
+3.54,16.4,2.0,Medium,Clear,Night,Motorcycle,27.5
+6.52,32.6,5.8,Medium,Rainy,Evening,Motorcycle,61.2
+7.58,15.6,1.7,Low,Rainy,Night,Motorcycle,37.5
+9.42,14.3,1.6,Low,Rainy,Evening,Scooter,49.4
+4.79,28.9,0.2,Low,Clear,Evening,Motorcycle,44.3
+4.51,9.2,0.2,High,Rainy,Evening,Scooter,42.0
+4.45,8.0,0.4,High,Clear,Afternoon,Scooter,30.9
+6.19,18.7,0.2,High,Clear,Night,Motorcycle,40.0
+10.62,18.0,2.7,High,Stormy,Afternoon,Motorcycle,62.7
+4.33,16.6,2.6,High,Rainy,Evening,Motorcycle,44.1
+1.0,24.0,0.3,Medium,Foggy,Afternoon,Motorcycle,37.0
+8.02,12.6,3.6,Medium,Clear,Evening,Motorcycle,36.6
+5.26,18.4,0.3,Low,Windy,Evening,Motorcycle,37.2
+6.68,15.8,0.7,Medium,Rainy,Morning,Scooter,44.8
+1.79,12.7,0.6,High,Foggy,Night,Scooter,32.7
+3.7,17.6,0.9,Medium,Clear,Afternoon,Motorcycle,30.7
+7.68,23.1,0.6,Medium,Stormy,Evening,Motorcycle,57.3
+2.27,30.7,1.3,Medium,Windy,Morning,Scooter,42.0
+6.51,21.5,,Medium,Windy,Morning,Electric Bike,45.8
+4.97,8.0,8.0,High,Clear,Afternoon,Electric Bike,24.5
+3.25,17.8,0.2,High,Clear,Evening,Scooter,35.8
+3.09,18.3,0.3,Medium,Clear,Morning,Motorcycle,32.0
+2.69,23.6,,High,,Night,Motorcycle,39.5
+5.24,19.1,2.0,Medium,Windy,Afternoon,Electric Bike,40.5
+5.59,25.5,0.2,High,Clear,Afternoon,Motorcycle,49.5
+4.09,20.4,3.6,Medium,Clear,Morning,Bicycle,34.7
+2.59,27.4,1.4,Medium,Clear,Morning,Scooter,36.3
+6.41,15.4,1.5,Medium,Clear,Evening,Scooter,40.8
+8.1,18.9,1.6,High,Clear,Night,Motorcycle,42.5
+7.04,23.0,0.4,Jam,Foggy,Evening,Scooter,64.8
+13.47,14.6,0.4,Low,Rainy,Morning,Scooter,50.5
+4.56,13.3,0.8,Low,Clear,Afternoon,Motorcycle,21.4
+10.08,14.2,1.8,Jam,Clear,Evening,Motorcycle,57.2
+3.44,13.5,0.5,Medium,Clear,Night,Electric Bike,21.0
+3.11,21.1,0.2,Medium,Clear,Afternoon,Scooter,32.9
+5.42,8.0,7.0,Medium,,Evening,Motorcycle,27.8
+11.24,8.7,0.2,Low,Foggy,Afternoon,Motorcycle,40.4
+4.28,29.2,3.2,High,Foggy,Afternoon,Scooter,50.6
+1.79,13.6,3.1,High,Foggy,Evening,Scooter,32.4
+8.02,19.2,0.7,Medium,Clear,Morning,Scooter,39.0
+4.85,9.1,0.3,Medium,Stormy,Evening,Scooter,44.2
+5.97,18.6,0.3,High,Windy,Afternoon,Motorcycle,44.7
+3.21,13.7,2.4,Low,Windy,Evening,Scooter,22.7
+5.4,8.6,2.1,High,Clear,Morning,Motorcycle,28.8
+1.98,26.0,3.1,Medium,Stormy,Night,Bicycle,53.1
+12.49,25.1,5.5,Medium,Windy,Morning,Scooter,55.8
+8.81,17.4,2.4,Jam,Windy,Night,Motorcycle,53.3
+5.26,24.0,0.3,High,Clear,Evening,Motorcycle,49.5
+7.9,29.4,0.6,Medium,Foggy,Night,Electric Bike,60.1
+3.45,22.5,3.7,High,Stormy,Evening,Motorcycle,52.6
+8.6,20.9,0.5,Medium,Foggy,Evening,Motorcycle,50.4
+4.17,19.2,0.2,Medium,Rainy,Afternoon,Scooter,42.4
+4.0,21.9,2.4,Jam,Stormy,Morning,Motorcycle,59.3
+2.8,15.8,1.0,High,Clear,Afternoon,Electric Bike,36.3
+6.37,16.3,5.1,Medium,Rainy,Morning,Motorcycle,36.7
+5.14,20.7,2.1,Medium,Rainy,Night,Electric Bike,44.9
+10.25,15.2,0.2,Low,,Morning,Motorcycle,46.0
+2.6,15.8,5.9,Low,Clear,Evening,Motorcycle,22.1
+6.39,18.0,0.6,Medium,Rainy,Evening,Electric Bike,54.1
+9.26,24.9,0.8,High,Foggy,Evening,Scooter,63.4
+16.59,11.2,1.0,Medium,Foggy,Evening,Motorcycle,57.6
+5.64,22.6,0.2,High,Rainy,Morning,Motorcycle,52.5
+4.13,22.8,1.4,Low,Windy,Evening,Scooter,31.9
+5.56,22.7,0.3,Medium,Stormy,Afternoon,Scooter,54.5
+9.82,13.2,1.0,Low,Clear,Night,Bicycle,45.9
+9.82,8.0,0.9,Medium,Clear,Evening,Bicycle,50.5
+4.74,21.4,3.0,Low,Clear,Night,Scooter,30.2
+9.73,19.1,3.3,Jam,Clear,Morning,Motorcycle,52.0
+5.0,24.0,0.3,Low,Rainy,Afternoon,Scooter,48.3
+7.86,13.8,0.9,Jam,Windy,Morning,Scooter,51.0
+6.79,22.6,0.9,Medium,Windy,Morning,Motorcycle,42.0
+4.03,24.3,0.3,Jam,Clear,Afternoon,Motorcycle,53.3
+2.87,17.4,3.2,Medium,Clear,Evening,Motorcycle,29.9
+9.38,20.5,2.5,Jam,Rainy,Afternoon,Motorcycle,70.6
+10.75,20.3,0.4,Low,Rainy,Evening,Motorcycle,52.9
+6.31,13.1,0.9,High,Clear,Night,Scooter,37.5
+5.0,21.2,0.2,Jam,Windy,Evening,Electric Bike,57.5
+2.4,27.7,2.0,Low,Stormy,Afternoon,Scooter,49.3
+9.26,18.1,0.3,Low,Clear,Afternoon,Motorcycle,37.7
+5.92,9.2,8.0,Medium,Windy,Evening,Motorcycle,25.3
+4.36,13.9,3.0,Jam,Clear,Morning,Scooter,37.7
+7.97,8.0,1.0,Medium,Foggy,Evening,Motorcycle,33.4
+2.12,25.7,1.7,Medium,Rainy,Afternoon,Scooter,44.9
+2.72,22.6,4.8,Low,Clear,Night,Bicycle,25.4
+3.37,15.0,1.6,Low,Stormy,Evening,Motorcycle,42.2
+6.68,9.5,0.4,High,Rainy,Evening,Motorcycle,42.5
+5.6,13.0,1.0,Low,Foggy,Afternoon,Scooter,30.6
+7.1,14.2,3.7,Medium,Clear,Afternoon,Bicycle,39.9
+8.93,18.7,2.1,Jam,Clear,Evening,Electric Bike,63.0
+7.23,18.5,2.1,Low,Clear,Evening,Electric Bike,40.4
+12.63,26.0,4.0,High,Rainy,Afternoon,Motorcycle,68.4
+8.92,13.8,4.5,Low,Foggy,Morning,Bicycle,43.1
+4.73,9.0,5.0,Medium,Clear,Morning,Motorcycle,17.7
+3.69,11.1,0.2,Low,Foggy,Evening,Motorcycle,30.1
+4.81,17.9,1.6,High,Foggy,Afternoon,Electric Bike,48.0
+7.37,13.6,2.7,Medium,Foggy,Evening,Bicycle,45.1
+3.93,16.2,2.8,Medium,Rainy,Evening,Motorcycle,40.3
+7.47,15.3,1.9,Medium,Windy,Evening,Motorcycle,37.2
+7.03,23.9,0.4,Low,Rainy,Night,Motorcycle,44.2
+2.84,14.5,3.2,High,Rainy,Night,Motorcycle,36.3
+8.83,15.7,2.5,Medium,Clear,Evening,Motorcycle,43.4
+6.19,22.3,0.2,High,Clear,Morning,Bicycle,52.2
+12.31,14.6,1.2,Low,Clear,Afternoon,Scooter,38.2
+5.01,20.5,0.4,High,Rainy,Evening,Electric Bike,58.1
+4.25,20.0,0.8,Low,Clear,Evening,Electric Bike,35.2
+2.62,18.9,0.2,Medium,Clear,Evening,Scooter,36.6
+2.59,11.2,1.0,Low,Foggy,Morning,Electric Bike,22.2
+8.28,25.4,1.6,High,Clear,Evening,Scooter,60.0
+11.66,31.3,1.9,Medium,Clear,Morning,Motorcycle,57.0
+4.78,18.1,2.2,High,Clear,Evening,Scooter,43.3
+4.6,11.7,3.6,High,Foggy,Afternoon,Scooter,40.1
+5.27,18.2,0.5,Low,Clear,Evening,Electric Bike,35.9
+9.15,23.9,0.3,Medium,Rainy,Morning,Bicycle,71.3
+2.86,14.3,3.8,Low,Rainy,Afternoon,Motorcycle,25.8
+5.78,17.2,0.3,Medium,Foggy,Evening,Electric Bike,46.8
+8.38,20.0,7.4,High,Rainy,Afternoon,Motorcycle,47.5
+6.63,25.2,3.7,High,Windy,Evening,Electric Bike,56.1
+1.0,22.7,1.4,Medium,Clear,Evening,Motorcycle,30.5
+7.25,22.9,8.0,Medium,Clear,Evening,Motorcycle,42.7
+6.67,15.4,0.2,Medium,Clear,Afternoon,Motorcycle,38.3
+10.07,20.4,0.7,Low,Clear,Evening,Scooter,45.2
+11.18,13.7,2.0,High,Clear,Evening,Motorcycle,46.5
+9.81,23.1,0.9,Medium,Clear,Evening,Bicycle,62.1
+5.28,24.9,5.3,High,Rainy,Evening,Motorcycle,55.3
+1.74,21.3,0.2,Low,Foggy,Afternoon,Bicycle,32.6
+14.1,15.8,1.6,Medium,Clear,Afternoon,Scooter,49.4
+4.58,16.8,1.8,Medium,Foggy,Afternoon,Motorcycle,39.3
+5.19,28.8,2.1,Low,Clear,Morning,Motorcycle,37.1
+11.59,15.9,0.6,Medium,Clear,Afternoon,Scooter,47.7
+3.23,24.3,0.9,High,Rainy,Evening,Scooter,54.5
+2.16,20.0,3.7,High,Clear,Evening,Scooter,34.0
+3.94,16.0,0.4,Medium,Clear,Afternoon,Motorcycle,25.1
+3.34,9.9,3.5,Medium,Clear,Night,Scooter,20.5
+2.02,19.3,1.7,Low,Stormy,Evening,Bicycle,48.0
+4.83,18.5,2.9,High,Foggy,Night,Motorcycle,42.0
+5.31,28.8,2.5,Low,Clear,Evening,Motorcycle,43.2
+1.95,12.8,0.5,Jam,Windy,Evening,Motorcycle,39.4
+4.24,31.8,1.7,Medium,Foggy,Morning,Electric Bike,54.3
+3.21,20.3,4.0,Medium,Rainy,Afternoon,Electric Bike,42.9
+1.38,20.3,1.1,Jam,Windy,Morning,Motorcycle,41.9
+5.4,14.4,6.8,Low,Clear,Evening,Motorcycle,25.6
+5.7,19.9,1.2,Medium,Clear,Afternoon,Motorcycle,31.8
+3.21,20.8,0.3,Medium,Rainy,Evening,Motorcycle,46.3
+8.79,23.6,1.0,Low,Rainy,Afternoon,Motorcycle,48.2
+5.13,12.1,6.1,Medium,Rainy,Evening,Bicycle,40.0
+3.31,26.4,0.8,High,Rainy,Morning,Scooter,53.7
+1.86,20.2,4.1,High,Stormy,Morning,Motorcycle,41.8
+5.87,21.6,4.3,Low,Windy,Afternoon,Electric Bike,38.7
+6.66,16.7,0.9,Jam,Windy,Afternoon,Scooter,49.8
+3.81,12.4,0.2,Low,Windy,Afternoon,Scooter,21.5
+5.5,18.4,2.6,Low,Stormy,Evening,Motorcycle,45.8
+11.18,19.1,0.7,Medium,Clear,Morning,Motorcycle,44.3
+8.07,9.7,3.1,Low,Clear,Afternoon,Bicycle,40.3
+1.08,22.8,1.2,Low,Rainy,Evening,Scooter,34.6
+3.28,24.0,1.3,Jam,Windy,Morning,Motorcycle,53.9
+4.7,13.6,3.0,Medium,Rainy,Night,Scooter,32.0
+5.29,11.9,1.0,Low,Foggy,Night,Bicycle,36.8
+5.56,16.2,1.2,Low,Clear,Morning,Motorcycle,29.2
+6.43,18.1,0.9,High,Clear,Afternoon,Scooter,44.2
+4.79,16.4,0.9,High,Foggy,Afternoon,Bicycle,47.6
+5.12,17.6,1.5,Medium,Clear,Evening,Motorcycle,31.8
+8.29,19.3,3.3,Low,Clear,Evening,Scooter,34.5
+5.93,9.8,0.9,Low,Clear,Evening,Scooter,31.0
+2.46,10.5,1.5,Low,Clear,Evening,Scooter,18.8
+5.38,8.0,2.2,Low,Foggy,Morning,Motorcycle,19.7
+4.71,23.7,0.6,Medium,Clear,Evening,Motorcycle,38.7
+1.38,18.1,0.7,Low,Rainy,Evening,Scooter,34.4
+5.54,24.3,5.4,Medium,Clear,Evening,Motorcycle,39.1
+2.67,11.2,2.6,Medium,Windy,Night,Motorcycle,17.1
+8.36,18.1,1.7,Jam,Clear,Evening,Motorcycle,57.4
+6.38,19.3,2.1,Jam,Rainy,Afternoon,Motorcycle,58.8
+2.37,14.6,0.2,Medium,Foggy,Afternoon,Bicycle,38.4
+8.16,8.7,1.9,Medium,Clear,Evening,Motorcycle,34.6
+10.16,28.5,1.4,Medium,Windy,Morning,Bicycle,62.6
+4.39,26.4,1.6,Medium,Rainy,Night,Motorcycle,50.2
+4.69,15.7,0.9,High,Clear,Morning,Scooter,39.3
+7.74,21.1,0.2,Medium,Clear,Evening,Motorcycle,43.0
+9.76,15.1,0.4,High,Stormy,Evening,Electric Bike,68.1
+1.65,12.0,6.0,Jam,Foggy,Morning,Electric Bike,36.7
+2.55,29.0,1.1,Medium,Clear,Night,Motorcycle,35.5
+3.98,8.1,1.3,Medium,Clear,Night,Bicycle,25.1
+4.24,16.3,0.2,Low,Windy,Evening,Motorcycle,33.9
+7.63,18.5,0.2,Low,Foggy,Afternoon,Scooter,42.6
+9.79,27.9,2.5,Medium,Foggy,Morning,Bicycle,68.2
+10.17,23.4,1.5,Low,Clear,Afternoon,Electric Bike,52.7
+1.63,8.0,1.4,High,Foggy,Afternoon,Bicycle,30.7
+3.1,18.0,0.6,Low,Clear,Evening,Motorcycle,28.9
+2.3,18.1,2.7,Medium,Clear,Night,Motorcycle,24.1
+3.56,16.6,0.4,Medium,Rainy,Evening,Motorcycle,40.9
+3.09,21.7,0.4,High,Stormy,Night,Scooter,51.0
+6.37,9.5,1.2,Medium,Clear,Evening,Electric Bike,29.7
+6.79,15.5,0.7,High,Rainy,Evening,Motorcycle,50.9
+5.08,20.9,0.6,Medium,Foggy,Night,Scooter,40.8
+4.82,22.1,2.1,Medium,Rainy,Evening,Motorcycle,47.8
+4.08,18.9,2.1,Low,Windy,Night,Motorcycle,30.8
+4.36,16.3,3.5,Medium,Foggy,Afternoon,Scooter,32.8
+11.12,17.3,1.1,High,Clear,Morning,Scooter,50.4
+7.32,22.4,0.2,Medium,Stormy,Night,Electric Bike,61.8
+4.17,18.2,0.6,High,Foggy,Evening,Motorcycle,44.2
+4.77,11.7,7.8,Medium,Windy,Night,Electric Bike,25.9
+6.45,10.6,1.8,Low,Foggy,Night,Motorcycle,25.7
+2.37,9.1,2.5,Low,Windy,Morning,Motorcycle,14.5
+5.48,26.7,0.2,Medium,Clear,Evening,Scooter,49.4
+7.11,22.8,1.5,High,Clear,Afternoon,Electric Bike,51.4
+6.63,17.4,0.2,High,Windy,Evening,Motorcycle,49.4
+3.14,15.3,1.7,Medium,Clear,Evening,Motorcycle,24.6
+3.5,14.6,5.1,Medium,Clear,Afternoon,Scooter,21.2
+1.26,24.6,6.9,Medium,Foggy,Evening,Motorcycle,30.7
+7.51,29.4,1.6,Medium,Windy,Evening,Electric Bike,56.6
+13.56,14.4,1.2,Low,Clear,Morning,Electric Bike,53.5
+2.87,24.8,5.8,Low,Windy,Evening,Motorcycle,33.2
+8.89,18.2,2.2,Low,Foggy,Evening,Scooter,43.5
+12.94,16.7,0.2,Low,Rainy,Night,Electric Bike,60.4
+3.85,27.0,1.3,Low,Windy,Afternoon,Motorcycle,39.9
+4.77,17.9,0.5,Low,Clear,Morning,Scooter,25.6
+5.82,19.8,1.3,Medium,Clear,Evening,Motorcycle,45.1
+6.52,19.5,1.2,Medium,Clear,Morning,Scooter,38.5
+6.0,8.2,1.7,Jam,Rainy,Night,Motorcycle,46.0
+4.03,19.7,0.9,Low,Rainy,Morning,Electric Bike,40.0
+7.05,14.6,0.4,Medium,Windy,Evening,Motorcycle,40.5
+4.09,9.5,1.4,Medium,Foggy,Evening,Motorcycle,29.0
+6.22,14.9,3.5,Low,Rainy,Afternoon,Electric Bike,43.7
+4.98,14.8,2.2,High,Foggy,Morning,Motorcycle,38.2
+1.51,24.2,0.8,Low,Clear,Evening,Motorcycle,33.7
+9.58,11.6,5.5,Jam,Clear,Evening,Motorcycle,47.1
+3.55,13.3,4.9,High,Windy,Afternoon,Motorcycle,29.6
+10.07,19.4,0.5,Medium,Clear,Night,Bicycle,62.8
+8.71,10.0,0.2,Medium,Clear,Afternoon,Electric Bike,38.3
+5.73,14.0,2.7,High,Foggy,Afternoon,Motorcycle,40.0
+6.7,8.0,3.5,Medium,Clear,Evening,Scooter,29.6
+7.13,23.5,6.9,Medium,Windy,Morning,Scooter,47.5
+4.53,16.2,4.4,Low,Clear,Night,Bicycle,34.0
+4.65,17.9,1.8,Low,Clear,Afternoon,Motorcycle,30.2
+6.95,23.5,1.5,Medium,Clear,Morning,Scooter,49.3
+5.01,13.7,0.2,Medium,Rainy,Afternoon,Scooter,36.8
+4.04,16.1,0.6,High,Clear,Evening,Scooter,41.2
+3.17,11.7,1.2,Low,Rainy,Evening,Scooter,31.1
+6.32,11.6,2.0,High,Windy,Evening,Motorcycle,35.5
+3.48,12.5,1.6,Low,Windy,Morning,Electric Bike,24.8
+7.94,15.0,2.7,Medium,Clear,Afternoon,Scooter,35.0
+8.29,15.7,0.7,Medium,Rainy,Evening,Bicycle,65.0
+6.67,19.7,1.7,Medium,Rainy,Morning,Motorcycle,43.8
+7.42,12.7,0.2,Low,Stormy,Night,Scooter,41.5
+6.68,19.9,1.1,Medium,Stormy,Morning,Bicycle,65.0
+7.7,20.9,2.8,High,Clear,Evening,Scooter,50.3
+7.53,15.2,2.4,Medium,Foggy,Afternoon,Electric Bike,46.9
+6.13,13.2,8.0,Medium,Clear,Evening,Electric Bike,33.3
+8.77,18.5,0.7,High,Clear,Morning,Motorcycle,46.8
+4.62,16.8,1.4,High,Clear,Morning,Scooter,36.4
+3.23,19.3,0.8,Medium,Rainy,Afternoon,Motorcycle,40.9
+3.13,27.4,1.2,Medium,Rainy,Morning,Scooter,46.8
+4.24,18.4,3.9,High,Clear,Afternoon,Motorcycle,33.9
+1.36,14.2,2.3,Medium,Foggy,Evening,Scooter,29.6
+5.7,12.7,4.3,Low,Clear,Evening,Scooter,29.5
+7.19,12.9,0.5,Medium,Rainy,Evening,Motorcycle,45.1
+8.23,9.2,4.1,High,Clear,Evening,Motorcycle,38.7
+1.73,23.6,0.2,Low,Clear,Evening,Bicycle,34.3
+3.19,8.0,4.4,Jam,Clear,Afternoon,Motorcycle,26.0
+7.81,20.9,0.8,Low,Clear,Evening,Motorcycle,36.8
+4.53,12.8,0.8,High,Rainy,Afternoon,Motorcycle,40.9
+7.1,14.9,1.4,Medium,Clear,Evening,Bicycle,44.8
+2.29,12.6,5.6,Medium,Rainy,Afternoon,Bicycle,29.9
+10.01,26.7,0.2,High,Clear,Morning,Scooter,57.7
+2.18,18.1,0.9,Medium,Foggy,Evening,Electric Bike,36.2
+1.0,22.7,3.9,Medium,Foggy,Afternoon,Motorcycle,36.6
+5.61,25.8,1.0,Low,Clear,Night,Bicycle,44.5
+5.69,19.0,0.4,Low,Rainy,Night,Motorcycle,40.5
+3.79,10.8,1.1,Low,Clear,Morning,Motorcycle,18.4
+6.55,16.7,1.0,High,Rainy,Morning,Motorcycle,51.5
+6.65,13.5,4.9,Low,Clear,Evening,Scooter,31.2
+6.27,15.0,2.9,Low,Rainy,Evening,Electric Bike,40.9
+3.75,17.4,1.4,Medium,Rainy,Afternoon,Motorcycle,43.0
+3.33,17.2,8.0,Medium,Stormy,Evening,Bicycle,44.9
+3.99,20.5,1.3,High,Rainy,Evening,Motorcycle,51.4
+3.07,21.3,0.2,Low,Rainy,Afternoon,Motorcycle,38.2
+8.98,17.2,0.6,Low,Clear,Morning,Scooter,37.8
+4.19,20.4,1.1,Jam,Stormy,Evening,Scooter,67.3
+5.52,14.7,0.3,Medium,Foggy,Afternoon,Electric Bike,38.2
+7.8,25.9,5.9,High,Clear,Evening,Scooter,55.1
+2.98,14.6,2.9,High,Windy,Afternoon,Scooter,35.1
+2.12,25.2,0.6,High,Clear,Evening,Motorcycle,44.2
+3.07,9.1,1.8,Low,Windy,Night,Scooter,16.7
+5.85,15.7,2.6,High,Windy,Night,Bicycle,45.2
+5.64,16.0,5.7,High,Clear,Afternoon,Motorcycle,35.8
+6.26,19.7,4.3,Medium,Foggy,Afternoon,Electric Bike,42.4
+4.78,23.2,1.4,Medium,Clear,Evening,Scooter,42.3
+1.0,10.5,3.0,Medium,Clear,Afternoon,Motorcycle,16.4
+4.69,11.4,1.7,Low,Clear,Morning,Bicycle,23.9
+8.34,9.6,1.6,Medium,Foggy,Night,Scooter,33.7
+9.46,25.9,0.2,Medium,Clear,Morning,Motorcycle,49.7
+5.32,19.8,0.3,Medium,Clear,Morning,Motorcycle,33.7
+5.65,11.5,1.5,Medium,Foggy,Morning,Motorcycle,30.0
+7.03,15.3,0.6,Medium,Clear,Evening,Electric Bike,40.4
+9.33,25.1,0.2,Medium,Clear,Evening,Scooter,52.3
+5.07,16.3,2.6,Jam,Clear,Afternoon,Bicycle,55.5
+6.98,16.0,0.2,Low,Clear,Afternoon,Motorcycle,28.1
+3.66,13.3,1.8,Medium,Rainy,Afternoon,Motorcycle,37.3
+2.33,11.9,1.5,Low,Clear,Evening,Motorcycle,19.3
+3.88,25.1,6.9,Medium,Stormy,Morning,Scooter,46.0
+10.43,28.0,1.3,High,Foggy,Night,Bicycle,79.4
+7.05,12.1,0.2,Jam,Clear,Afternoon,Scooter,46.9
+2.47,26.4,1.6,Medium,Clear,Night,Motorcycle,34.3
+7.23,15.1,3.7,Jam,Clear,Morning,Electric Bike,50.3
+2.59,21.2,8.0,Low,Rainy,Evening,Electric Bike,35.4
+6.22,26.5,1.1,Medium,Clear,Afternoon,Motorcycle,43.2
+2.91,17.1,0.8,Low,Clear,Morning,Electric Bike,27.2
+2.38,16.0,4.7,High,Windy,Night,Motorcycle,26.9
+11.33,22.8,0.4,Medium,Clear,Night,Motorcycle,46.3
+4.19,11.3,1.9,High,Clear,Afternoon,Motorcycle,28.2
+6.99,24.9,1.0,High,Windy,Evening,Scooter,54.3
+5.18,18.9,0.2,Low,Foggy,Evening,Motorcycle,38.5
+2.72,14.5,0.9,Low,Clear,Night,Motorcycle,20.6
+4.44,14.4,0.6,High,Foggy,Afternoon,Motorcycle,35.0
+2.73,9.7,2.3,Medium,Clear,Evening,Electric Bike,23.3
+15.51,14.8,5.9,Low,Foggy,Evening,Bicycle,72.3
+7.65,16.4,0.6,Medium,Rainy,Afternoon,Electric Bike,49.8
+5.13,11.6,3.3,Medium,Windy,Night,Motorcycle,23.0
+6.79,17.7,0.2,Low,Stormy,Morning,Motorcycle,44.4
+7.39,20.8,1.5,Medium,Stormy,Morning,Motorcycle,50.7
+7.4,16.7,0.2,Low,Windy,Evening,Motorcycle,36.9
+7.23,22.0,5.4,Medium,Rainy,Evening,Scooter,47.0
+6.95,13.2,2.9,High,Clear,Morning,Scooter,36.3
+5.36,24.0,2.1,Jam,Rainy,Afternoon,Scooter,60.5
+10.88,18.7,3.5,Medium,Foggy,Night,Scooter,48.3
+5.55,27.3,2.1,Low,Windy,Afternoon,Motorcycle,41.2
+5.21,32.5,6.9,Jam,Clear,Evening,Motorcycle,59.9
+5.58,15.2,2.5,Medium,Windy,Evening,Scooter,38.9
+5.79,15.4,5.2,Low,Windy,Afternoon,Motorcycle,25.8
+1.74,16.5,1.5,Jam,Stormy,Night,Motorcycle,52.6
+3.05,21.6,0.2,High,Windy,Evening,Motorcycle,47.8
+4.78,26.0,1.5,High,Clear,Evening,Motorcycle,49.9
+1.68,14.1,0.3,High,Clear,Evening,Motorcycle,32.4
+5.13,20.3,1.8,Low,Clear,Evening,Electric Bike,38.0
+5.75,17.2,1.3,Low,Clear,Evening,Electric Bike,36.6
+2.26,21.7,1.9,High,Rainy,Night,Motorcycle,46.4
+3.51,27.1,0.2,Low,Windy,Afternoon,Motorcycle,39.8
+9.66,16.6,0.4,Medium,Windy,Afternoon,Scooter,47.5
+6.83,8.0,1.4,High,,Afternoon,Motorcycle,40.7
+6.62,22.5,6.0,High,Clear,Morning,Motorcycle,42.6
+9.06,13.0,1.0,Medium,Clear,Morning,Motorcycle,35.3
+3.09,17.1,1.1,High,Clear,Night,Motorcycle,30.1
+2.26,22.7,2.5,High,Clear,Evening,Electric Bike,44.7
+8.43,19.8,1.9,High,Rainy,Evening,Electric Bike,59.9
+4.85,17.4,0.7,Low,Clear,Evening,Motorcycle,32.6
+3.04,14.5,1.1,Medium,Clear,Evening,Motorcycle,29.4
+13.65,8.0,0.5,Medium,Clear,Evening,Motorcycle,41.7
+1.73,22.2,6.8,Low,Rainy,Night,Motorcycle,30.2
+5.61,16.5,0.3,Medium,Rainy,Afternoon,Bicycle,51.4
+4.54,27.1,0.9,Low,Rainy,Night,Scooter,41.8
+4.12,20.4,0.2,Medium,Clear,Evening,Scooter,41.8
+1.02,14.8,0.5,Jam,Stormy,Afternoon,Electric Bike,51.2
+10.81,24.4,3.0,Low,Clear,Evening,Electric Bike,60.3
+2.0,24.9,0.4,High,Rainy,Evening,Electric Bike,55.6
+4.34,16.7,,High,Foggy,Morning,Motorcycle,41.2
+3.94,25.2,,Low,Rainy,Evening,Motorcycle,43.4
+6.93,14.7,0.2,Jam,Stormy,Afternoon,Scooter,62.8
+1.74,19.0,0.2,Medium,Clear,Morning,Motorcycle,27.9
+6.5,21.4,3.3,Medium,Rainy,Night,Bicycle,58.0
+5.63,22.7,3.0,High,Clear,Evening,Scooter,50.7
+3.41,21.7,4.9,Medium,Rainy,Night,Bicycle,44.2
+6.38,16.0,3.9,High,Clear,Evening,Motorcycle,44.6
+5.12,24.6,2.3,Low,Clear,Afternoon,Electric Bike,33.1
+12.14,17.3,0.2,High,Rainy,Evening,Motorcycle,64.7
+4.54,14.6,3.1,Medium,Rainy,Evening,Bicycle,48.7
+2.8,14.7,3.7,Medium,Clear,Night,Motorcycle,23.4
+6.53,29.6,3.2,Low,Foggy,Afternoon,Scooter,44.7
+4.23,13.5,1.4,High,Rainy,Night,Electric Bike,46.1
+5.06,25.7,0.5,High,Clear,Night,Motorcycle,47.5
+2.28,11.2,3.7,Medium,Rainy,Evening,Scooter,32.0
+6.99,20.9,2.6,Medium,Foggy,Night,Bicycle,52.9
+3.84,19.8,7.9,Medium,Rainy,Afternoon,Motorcycle,40.8
+5.86,27.7,0.3,High,Clear,Night,Scooter,51.8
+13.7,14.1,0.5,Medium,Clear,Evening,Motorcycle,48.0
+4.4,12.4,0.5,High,Rainy,Morning,Electric Bike,41.3
+7.49,17.3,3.1,High,Stormy,Night,Scooter,57.5
+4.57,28.0,0.4,Medium,Foggy,Evening,Motorcycle,53.0
+3.43,12.7,0.2,Low,Clear,Evening,Motorcycle,24.0
+9.84,8.0,8.0,Medium,Rainy,Evening,Scooter,39.3
+1.39,18.4,0.2,High,Windy,Morning,Motorcycle,38.0
+8.51,23.7,3.6,Low,Clear,Evening,Motorcycle,39.6
+1.27,11.9,0.9,Medium,Stormy,Evening,Scooter,42.1
+8.06,23.1,3.7,High,Stormy,Morning,Motorcycle,59.0
+5.11,11.8,1.6,Medium,Clear,Afternoon,Motorcycle,23.5
+2.81,17.1,4.6,Medium,Stormy,Morning,Scooter,36.3
+3.99,22.5,5.2,Low,Clear,Afternoon,Motorcycle,25.3
+7.28,10.9,0.2,Low,Windy,Evening,Motorcycle,31.2
+13.03,19.1,0.2,High,,Evening,Motorcycle,57.4
+1.79,25.3,0.6,Low,Clear,Night,Scooter,31.6
+2.91,20.8,2.2,Medium,Rainy,Evening,Scooter,45.4
+2.14,13.7,4.4,High,Foggy,Afternoon,Scooter,31.9
+4.55,27.1,1.2,Medium,Clear,Night,Motorcycle,47.1
+8.17,22.0,1.9,Jam,Rainy,Evening,Motorcycle,66.6
+1.96,8.0,0.4,Jam,Clear,Evening,Motorcycle,34.1
+5.03,23.2,3.3,Medium,Clear,Evening,Motorcycle,36.5
+8.03,14.6,6.8,Low,Clear,Night,Bicycle,37.1
+3.96,19.2,0.6,High,Rainy,Evening,Motorcycle,50.8
+5.65,24.0,1.4,Medium,Clear,Afternoon,Motorcycle,37.1
+9.46,14.7,0.2,Low,Clear,Evening,Motorcycle,35.9
+2.59,8.1,1.6,High,Clear,Morning,Scooter,24.6
+1.5,27.0,1.4,Low,Clear,Afternoon,Scooter,29.8
+6.03,25.0,0.3,High,Rainy,Afternoon,Scooter,56.7
+6.12,17.5,1.2,Low,Stormy,Morning,Electric Bike,49.1
+3.8,23.1,0.8,Low,Clear,Morning,Scooter,28.4
+3.38,15.8,1.5,Low,Stormy,Morning,Motorcycle,33.3
+5.16,18.6,1.8,Jam,Foggy,Evening,Motorcycle,55.2
+2.56,17.1,0.2,High,Rainy,Evening,Scooter,48.4
+2.56,16.0,,High,Rainy,Night,Scooter,39.4
+7.26,20.2,2.5,Medium,Windy,Afternoon,Scooter,42.0
+2.45,10.8,0.9,Medium,Clear,Evening,Scooter,24.0
+1.57,16.5,0.2,Low,Rainy,Night,Scooter,31.1
+3.37,19.9,2.8,Medium,Foggy,Morning,Electric Bike,39.0
+3.86,29.0,6.2,Medium,Rainy,Evening,Scooter,50.6
+6.5,11.0,0.5,Medium,Windy,Evening,Electric Bike,38.5
+3.55,21.1,0.8,Medium,Clear,Morning,Motorcycle,32.7
+10.29,21.8,0.4,Jam,Foggy,Night,Scooter,64.9
+5.31,8.0,1.7,Low,Rainy,Evening,Bicycle,37.9
+3.1,20.5,0.3,Jam,Clear,Morning,Motorcycle,43.8
+6.35,23.3,0.9,Low,Clear,Morning,Electric Bike,39.6
+10.2,21.5,2.4,Medium,Rainy,Morning,Scooter,54.0
+7.15,17.5,1.6,Medium,Windy,Afternoon,Motorcycle,39.8
+1.88,20.0,1.0,Medium,Rainy,Evening,Scooter,43.2
+4.05,19.0,1.1,Medium,Windy,Evening,Motorcycle,36.8
+5.81,8.0,1.7,Medium,Clear,Afternoon,Bicycle,31.0
+7.0,19.2,0.2,Medium,Clear,Night,Electric Bike,43.6
+4.56,15.8,0.2,High,Clear,Afternoon,Motorcycle,37.0
+4.21,13.8,4.3,High,Clear,Morning,Motorcycle,29.0
+12.09,32.9,,High,Clear,Afternoon,Scooter,73.9
+7.21,25.5,2.5,Low,Clear,Evening,Motorcycle,40.6
+6.36,11.1,5.1,Medium,Foggy,Afternoon,Motorcycle,25.8
+3.64,20.1,0.6,Medium,Foggy,Afternoon,Scooter,37.1
+2.54,26.7,0.9,Medium,Clear,Morning,Motorcycle,40.1
+6.42,9.0,1.7,Medium,Clear,Evening,Motorcycle,28.3
+7.62,18.5,4.3,Medium,Clear,Night,Electric Bike,38.5
+5.05,18.7,5.7,Low,Rainy,Afternoon,Bicycle,42.2
+7.22,10.4,2.7,Low,Clear,Afternoon,Electric Bike,31.2
+7.32,20.3,0.2,Low,Clear,Evening,Electric Bike,43.6
+7.89,24.7,2.2,High,Stormy,Evening,Motorcycle,68.6
+1.86,27.0,1.1,High,Windy,Afternoon,Motorcycle,44.2
+4.12,16.5,1.3,Jam,Clear,Night,Motorcycle,43.1
+6.63,33.0,0.2,High,Clear,Evening,Electric Bike,65.7
+5.21,8.0,0.4,Low,Clear,Evening,Bicycle,29.5
+7.33,20.1,,High,Foggy,Evening,Scooter,54.3
+6.36,9.5,1.2,High,Rainy,Night,Electric Bike,43.0
+1.08,18.5,0.7,Medium,Clear,Evening,Scooter,26.4
+8.88,14.9,1.0,Medium,Foggy,Morning,Motorcycle,41.0
+3.82,21.0,3.9,Jam,Clear,Afternoon,Motorcycle,42.0
+2.99,17.2,2.8,Medium,Clear,Evening,Motorcycle,31.6
+8.72,13.0,0.6,Jam,Clear,Afternoon,Motorcycle,48.6
+7.03,13.4,0.2,Low,Rainy,Evening,Scooter,44.9
+9.36,29.6,0.6,Low,Clear,Evening,Motorcycle,50.7
+5.85,20.7,5.1,Medium,Clear,Evening,Scooter,38.6
+4.09,8.0,1.7,Medium,Clear,Night,Scooter,16.8
+5.49,21.3,1.5,High,Clear,Afternoon,Motorcycle,40.2
+2.66,16.8,1.8,Jam,Foggy,Night,Scooter,40.5
+2.11,18.0,0.9,Medium,Clear,Evening,Scooter,33.8
+3.48,22.9,3.3,Low,Clear,Afternoon,Motorcycle,27.8
+10.81,25.1,1.5,High,Foggy,Evening,Electric Bike,75.2
+3.69,12.8,0.2,Medium,Foggy,Morning,Scooter,24.5
+1.59,17.8,0.3,Low,Windy,Evening,Scooter,32.1
+4.64,14.7,1.5,Medium,Rainy,Evening,Electric Bike,43.2
+3.66,21.6,5.5,High,Clear,Afternoon,Electric Bike,40.1
+8.96,16.6,0.7,High,Foggy,Evening,Electric Bike,56.9
+10.41,18.2,4.1,Medium,Foggy,Evening,Motorcycle,50.1
+3.98,16.4,2.9,Medium,Clear,Afternoon,Motorcycle,27.2
+5.84,17.4,0.6,Jam,Windy,Morning,Motorcycle,46.4
+6.11,28.2,0.2,High,Clear,Afternoon,Motorcycle,49.0
+4.93,32.3,0.2,Medium,Stormy,Evening,Bicycle,69.5
+4.44,20.3,2.6,Medium,Windy,Night,Scooter,36.1
+2.86,17.4,0.4,High,Foggy,Night,Motorcycle,36.9
+1.42,8.4,0.9,Low,Stormy,Evening,Motorcycle,25.4
+2.85,13.4,1.4,Low,Foggy,Evening,Motorcycle,28.5
+4.83,17.2,2.6,Medium,Clear,Afternoon,Scooter,26.7
+1.96,13.7,0.2,Medium,Clear,Evening,Scooter,30.4
+5.68,14.3,1.0,Medium,Clear,Afternoon,Electric Bike,39.3
+5.27,27.5,1.3,Low,Clear,Afternoon,Bicycle,43.3
+3.66,18.2,1.6,High,Foggy,Evening,Motorcycle,46.8
+4.33,18.7,3.4,Medium,Clear,Morning,Motorcycle,30.5
+2.19,14.0,0.4,Low,Clear,Evening,Motorcycle,21.6
+7.82,25.1,3.3,Low,Rainy,Evening,Motorcycle,49.5
+7.75,16.7,2.4,Jam,Windy,Afternoon,Bicycle,65.3
+2.45,14.9,1.6,High,Clear,Afternoon,Scooter,31.2
+2.5,8.5,2.4,Low,Clear,Night,Scooter,12.0
+2.88,17.6,1.1,High,Clear,Evening,Scooter,43.3
+6.8,14.7,0.3,Medium,Foggy,Afternoon,Motorcycle,39.6
+6.1,28.1,2.2,Jam,Clear,Afternoon,Motorcycle,57.6
+8.67,29.1,1.5,Medium,Foggy,Evening,Scooter,59.0
+9.18,10.6,2.0,High,Clear,Evening,Scooter,43.4
+1.84,11.3,0.8,Low,Clear,Morning,Motorcycle,18.2
+6.68,16.3,4.7,Medium,Stormy,Afternoon,Scooter,47.9
+8.99,13.1,1.8,Jam,Clear,Night,Electric Bike,54.1
+4.17,19.3,0.2,Medium,Clear,Evening,Motorcycle,33.4
+5.0,16.0,1.2,Medium,Clear,Night,Scooter,29.8
+4.59,19.7,2.8,Low,Rainy,Evening,Motorcycle,39.7
+4.7,24.1,3.2,High,Rainy,Night,Scooter,52.7
+7.8,11.6,1.4,Medium,Clear,Afternoon,Electric Bike,35.9
+11.86,24.0,4.5,Medium,Clear,Evening,Bicycle,72.7
+10.11,13.6,0.6,Jam,Clear,Morning,Motorcycle,48.1
+3.77,30.9,1.1,Low,Foggy,Evening,Motorcycle,47.2
+5.85,27.7,4.6,Medium,Foggy,Evening,Motorcycle,49.3
+3.15,17.3,4.5,Jam,Rainy,Afternoon,Motorcycle,44.6
+3.34,12.2,2.3,Medium,Rainy,Night,Scooter,30.9
+4.88,11.1,3.9,Medium,Clear,Night,Bicycle,28.4
+3.29,23.2,0.2,Medium,Clear,Morning,Motorcycle,38.0
+3.59,17.8,,High,Clear,Evening,Motorcycle,36.0
+5.78,23.6,0.8,Low,Clear,Afternoon,Motorcycle,36.5
+6.63,31.2,0.4,Jam,Clear,Afternoon,Scooter,61.9
+6.53,13.4,0.5,High,Rainy,Evening,Motorcycle,49.7
+6.57,10.6,1.1,Low,Rainy,Afternoon,Motorcycle,31.4
+2.3,19.2,0.6,High,Stormy,Night,Scooter,46.7
+3.19,24.9,0.8,Medium,Clear,Morning,Motorcycle,42.5
+5.18,12.4,0.3,Medium,Rainy,Evening,Scooter,40.2
+8.78,18.2,0.7,High,Windy,Evening,Electric Bike,57.6
+15.22,26.2,1.7,Jam,Rainy,Afternoon,Motorcycle,83.7
+5.98,8.2,1.2,Low,Clear,Afternoon,Scooter,20.0
+7.41,19.4,0.9,Medium,Clear,Evening,Scooter,44.8
+2.13,14.8,2.7,Medium,Clear,Evening,Scooter,28.0
+7.31,18.7,4.5,Medium,Clear,Afternoon,Motorcycle,35.9
+13.12,22.3,2.8,Medium,Foggy,Evening,Motorcycle,64.5
+3.18,19.3,0.8,Low,Clear,Morning,Electric Bike,25.9
+3.66,11.9,2.7,High,Clear,Afternoon,Electric Bike,35.4
+7.93,15.0,0.3,Medium,Foggy,Evening,Motorcycle,45.1
+5.14,26.6,0.3,Low,Foggy,Morning,Motorcycle,44.1
+1.33,20.0,0.8,High,Rainy,Evening,Motorcycle,46.7
+3.79,23.0,3.3,High,Foggy,Evening,Motorcycle,52.5
+10.39,19.5,0.6,Medium,Clear,Night,Scooter,45.1
+4.31,22.9,0.2,Medium,Clear,Evening,Motorcycle,41.4
+4.31,15.6,0.3,Medium,Clear,Night,Motorcycle,31.5
+7.67,13.4,3.9,Medium,Rainy,Evening,Electric Bike,46.7
+6.1,22.6,2.0,Low,Stormy,Evening,Motorcycle,53.8
+4.18,24.8,0.6,High,Clear,Night,Electric Bike,46.0
+3.52,12.5,1.6,Low,Rainy,Evening,Scooter,29.2
+18.0,14.5,1.5,Low,Clear,Morning,Motorcycle,44.2
+9.5,17.0,2.1,Low,Rainy,Evening,Scooter,48.7
+6.57,27.7,0.5,Low,Clear,Night,Scooter,44.0
+6.79,21.4,4.0,Low,Clear,Evening,Motorcycle,31.0
+4.72,10.1,0.7,Jam,Windy,Evening,Motorcycle,44.3
+6.06,17.4,2.4,Medium,Rainy,Evening,Scooter,48.5
+4.44,16.5,0.2,Low,Rainy,Night,Bicycle,37.4
+3.01,11.0,0.9,Low,Clear,Morning,Scooter,16.1
+6.19,17.4,0.9,Jam,Clear,Evening,Motorcycle,52.6
+4.23,16.3,1.6,Medium,Clear,Afternoon,Scooter,32.5
+6.36,15.8,0.2,Medium,Windy,Evening,Motorcycle,43.3
+7.0,15.6,3.1,High,Stormy,Evening,Scooter,56.1
+6.54,26.8,0.5,Medium,Clear,Morning,Scooter,43.7
+2.86,15.8,2.3,Medium,Clear,Afternoon,Scooter,30.5
+3.97,18.3,3.3,Low,Windy,Evening,Electric Bike,31.6
+4.27,17.6,1.7,Medium,Clear,Morning,Scooter,32.0
+8.38,15.0,2.7,Medium,Rainy,Afternoon,Scooter,50.8
+8.16,18.5,2.2,High,Clear,Evening,Motorcycle,49.3
+3.3,18.4,0.9,Medium,Foggy,Afternoon,Electric Bike,39.5
+2.26,18.5,3.3,Medium,Rainy,Evening,Bicycle,44.8
+15.59,12.8,0.7,Low,Windy,Night,Motorcycle,45.4
+6.4,16.8,1.7,Low,Foggy,Afternoon,Scooter,37.9
+2.07,22.6,2.7,Medium,Clear,Afternoon,Motorcycle,30.1
+3.62,16.9,1.0,Jam,Foggy,Evening,Electric Bike,56.2
+8.57,19.0,0.7,Medium,Windy,Evening,Scooter,49.5
+13.64,19.0,1.2,High,Clear,Night,Motorcycle,50.8
+12.48,20.5,3.4,Medium,Clear,Night,Electric Bike,55.4
+6.26,21.4,5.3,Low,Clear,Evening,Motorcycle,28.8
+5.08,17.0,1.6,Low,Rainy,Afternoon,Electric Bike,41.0
+2.69,12.5,2.2,Medium,Clear,Morning,Scooter,21.4
+5.31,10.7,4.7,Low,Rainy,Afternoon,Motorcycle,32.1
+2.92,24.1,0.2,Low,Clear,Morning,Motorcycle,31.5
+3.99,22.6,0.5,High,Windy,Evening,Motorcycle,49.8
+7.92,21.9,2.5,Low,Clear,Evening,Scooter,39.1
+4.43,22.9,3.5,Medium,,Morning,Scooter,36.7
+4.26,17.0,3.9,Medium,Rainy,Evening,Motorcycle,38.4
+4.93,14.3,1.1,Medium,Rainy,Afternoon,Motorcycle,40.2
+16.79,12.1,0.2,Medium,Clear,Afternoon,Motorcycle,46.8
+2.51,11.5,1.2,Medium,Clear,Evening,Scooter,25.6
+5.91,25.3,0.5,Medium,Clear,Afternoon,Scooter,41.1
+11.9,15.0,0.7,High,Foggy,Afternoon,Motorcycle,54.3
+4.92,24.3,3.0,High,Foggy,Morning,Scooter,53.7
+9.41,16.9,0.2,Low,Rainy,Afternoon,Motorcycle,46.4
+2.16,13.9,3.5,Low,Foggy,Evening,Bicycle,28.5
+4.51,11.4,1.1,High,Foggy,Night,Bicycle,36.0
+3.11,14.5,1.8,Medium,Clear,Afternoon,Scooter,24.9
+4.89,26.5,0.2,Medium,Stormy,Afternoon,Bicycle,64.6
+4.95,11.5,0.8,Medium,Windy,Evening,Electric Bike,34.3
+5.23,30.7,0.2,Low,Clear,Night,Electric Bike,47.8
+7.89,13.0,6.5,Medium,Clear,Afternoon,Scooter,31.4
+1.0,22.5,3.3,Medium,Clear,Afternoon,Motorcycle,31.0
+3.53,17.1,1.2,Low,Clear,Evening,Motorcycle,28.2
+5.69,16.1,0.5,Medium,Foggy,Evening,Motorcycle,40.1
+1.38,10.4,5.4,High,Rainy,Morning,Scooter,28.1
+7.04,17.4,0.8,Medium,Foggy,Evening,Motorcycle,41.9
+3.49,11.1,0.4,Low,Foggy,Morning,Motorcycle,25.9
+4.56,8.0,1.7,Medium,Rainy,Evening,Scooter,33.3
+8.07,18.7,5.8,High,Foggy,Evening,Motorcycle,51.0
+9.63,14.2,0.2,High,Clear,Night,Scooter,44.0
+7.16,28.1,0.5,Medium,Clear,Evening,Bicycle,59.0
+2.47,24.0,5.6,Low,Rainy,Afternoon,Scooter,36.8
+6.97,28.2,0.4,High,Clear,Afternoon,Scooter,53.2
+7.22,13.9,0.2,High,Clear,Night,Scooter,39.0
+6.48,18.8,1.7,Low,Windy,Morning,Scooter,31.6
+10.44,8.0,4.0,Medium,Foggy,Afternoon,Motorcycle,34.6
+5.31,16.3,1.3,Medium,Clear,Morning,Electric Bike,34.4
+10.24,18.6,8.0,High,Foggy,Evening,Motorcycle,51.4
+10.2,18.9,,Low,Foggy,Evening,Motorcycle,48.0
+7.32,17.7,0.2,Medium,Clear,Afternoon,Electric Bike,43.1
+5.96,18.4,8.0,Jam,Clear,Afternoon,Motorcycle,50.8
+6.5,8.0,1.0,High,Stormy,Night,Motorcycle,45.3
+11.61,19.5,0.7,Jam,Clear,Evening,Motorcycle,59.3
+8.77,20.9,1.6,Jam,Clear,Evening,Motorcycle,58.4
+2.66,26.0,0.7,Low,Rainy,Night,Motorcycle,39.1
+6.29,20.2,0.2,Medium,Foggy,Night,Motorcycle,40.2
+3.02,17.2,0.2,Medium,Clear,Afternoon,Scooter,30.1
+3.43,24.6,1.2,High,Clear,Night,Electric Bike,41.9
+4.08,8.0,3.6,Medium,Clear,Morning,Motorcycle,19.1
+2.03,14.9,1.7,Jam,Stormy,Afternoon,Electric Bike,48.2
+2.9,13.4,8.0,Medium,Clear,Night,Motorcycle,20.5
+10.74,17.8,0.7,High,Rainy,Afternoon,Motorcycle,54.4
+3.41,8.0,0.7,Low,Stormy,Afternoon,Motorcycle,29.2
+7.91,25.9,0.3,Low,Clear,Afternoon,Scooter,42.5
+5.57,16.5,0.4,High,Stormy,Evening,Motorcycle,56.7
+6.81,19.9,0.7,Low,Stormy,Afternoon,Scooter,49.2
+6.96,19.3,3.1,High,Windy,Evening,Electric Bike,53.3
+2.82,25.6,4.7,Low,Clear,Night,Scooter,31.2
+7.89,8.0,7.4,High,Rainy,Evening,Scooter,44.9
+2.31,18.7,0.5,Medium,Foggy,Afternoon,Bicycle,37.8
+3.33,24.9,4.3,Medium,Stormy,Night,Motorcycle,47.9
+6.91,17.4,0.8,High,Clear,Afternoon,Motorcycle,46.8
+2.7,12.3,0.2,Medium,Foggy,Morning,Scooter,30.3
+3.96,19.2,0.6,High,Rainy,Evening,Motorcycle,50.8
+2.34,18.8,4.2,Medium,,Evening,Scooter,36.3
+7.83,17.4,1.1,Low,Foggy,Evening,Electric Bike,44.1
+4.12,16.5,1.3,Jam,Clear,Night,Motorcycle,43.1
+2.92,16.2,2.0,Medium,Clear,Afternoon,Bicycle,31.4
+1.74,19.0,0.2,Medium,Clear,Morning,Motorcycle,27.9
+4.4,12.4,0.5,High,Rainy,Morning,Electric Bike,41.3
+6.29,16.6,4.9,High,Clear,Afternoon,Scooter,41.0
+10.85,18.9,0.2,Low,Foggy,Evening,Scooter,54.0
+5.26,24.0,0.3,High,Clear,Evening,Motorcycle,49.5
