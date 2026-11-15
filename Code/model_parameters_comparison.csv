@@ -1,0 +1,16 @@
+Parameter,New Model,Pre-existed Model,Difference,Relative Error (%)
+Intercept (b),57.05375,57.05375,0.0,0.0
+Weight: Distance_km,17.16396,17.17442,0.010456,0.0609
+Weight: Preparation_Time_min,7.02744,7.00023,0.027207,0.3887
+Weight: Courier_Experience_yrs,-1.95117,-1.96447,0.013296,0.6768
+Weight: Weather_Foggy,1.7537,1.76416,0.01046,0.5929
+Weight: Weather_Rainy,1.91838,1.87295,0.04543,2.4256
+Weight: Weather_Snowy,2.78279,2.7272,0.055596,2.0386
+Weight: Weather_Windy,0.4351,0.43408,0.001019,0.2346
+Weight: Traffic_Level_Low,-5.36843,-5.42337,0.054942,1.0131
+Weight: Traffic_Level_Medium,-2.67582,-2.68471,0.008897,0.3314
+Weight: Time_of_Day_Evening,0.0,0.45822,0.458224,100.0
+Weight: Time_of_Day_Morning,0.0,-0.07959,0.079595,100.0
+Weight: Time_of_Day_Night,0.0,-0.40331,0.403312,100.0
+Weight: Vehicle_Type_Car,0.0,0.20853,0.208534,100.0
+Weight: Vehicle_Type_Scooter,0.0,-0.42846,0.428458,100.0
