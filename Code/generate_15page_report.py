@@ -146,8 +146,8 @@ def build_15page_pdf():
     
     m_data = [
         [Paragraph("Role", tc_h), Paragraph("Student Name", tc_h), Paragraph("Roll Number", tc_h), Paragraph("Email ID", tc_h)],
-        [Paragraph("Team Leader", tc_b), Paragraph("Shravani Mangale", tc_b), Paragraph("12321218", tc_b), Paragraph("shravani.mangale@somaiya.edu", tc)],
-        [Paragraph("Team Member", tc), Paragraph("Vipul", tc), Paragraph("12321219", tc), Paragraph("vipul@somaiya.edu", tc)]
+        [Paragraph("Team Leader", tc_b), Paragraph("Shravani Mangale", tc_b), Paragraph("12321218", tc_b), Paragraph("", tc)],
+        [Paragraph("Team Member", tc), Paragraph("", tc), Paragraph("12321219", tc), Paragraph("", tc)]
     ]
     t_m = Table(m_data, colWidths=[90, 130, 95, 189])
     t_m.setStyle(TableStyle([
@@ -829,8 +829,8 @@ def build_matching_docx():
         r.font.bold = True; r.font.color.rgb = RGBColor(255, 255, 255); r.font.size = Pt(9.5)
 
     m_data = [
-        ["Team Leader", "Shravani Mangale", "12321218", "shravani.mangale@somaiya.edu"],
-        ["Team Member", "Vipul", "12321219", "vipul@somaiya.edu"]
+        ["Team Leader", "Shravani Mangale", "12321218", ""],
+        ["Team Member", "", "12321219", ""]
     ]
     for i, row in enumerate(m_data):
         fill = "F8FAFC" if i % 2 == 0 else "FFFFFF"

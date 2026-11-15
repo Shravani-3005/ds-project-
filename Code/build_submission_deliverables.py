@@ -183,8 +183,8 @@ def build_docx_report():
         r.font.size = Pt(9.5)
 
     m_rows = [
-        ["Team Leader", "Shravani Mangale", "12321218", "shravani.mangale@somaiya.edu"],
-        ["Team Member", "Vipul", "12321219", "vipul@somaiya.edu"]
+        ["Team Leader", "Shravani Mangale", "12321218", ""],
+        ["Team Member", "", "12321219", ""]
     ]
     for i, row in enumerate(m_rows):
         fill = "F8FAFC" if i % 2 == 0 else "FFFFFF"
@@ -571,8 +571,8 @@ def build_pdf_report():
     story.append(Paragraph("2. Group Members Information", h1_style))
     raw_m = [
         ["Role", "Student Name", "Roll Number", "Email ID"],
-        ["Team Leader", "Shravani Mangale", "12321218", "shravani.mangale@somaiya.edu"],
-        ["Team Member", "Vipul", "12321219", "vipul@somaiya.edu"]
+        ["Team Leader", "Shravani Mangale", "12321218", ""],
+        ["Team Member", "", "12321219", ""]
     ]
     t_m_data = []
     for i, row in enumerate(raw_m):
@@ -816,7 +816,7 @@ def build_pptx_slides():
     p.space_after = PPTX_Pt(24)
 
     p = tf1.add_paragraph()
-    p.text = "Group Details: Team Leader: Shravani Mangale (Roll No: 12321218) | shravani.mangale@somaiya.edu"
+    p.text = "Group Details: Team Leader: Shravani Mangale (Roll No: 12321218) | "
     p.font.name = "Arial"
     p.font.size = PPTX_Pt(12)
     p.font.bold = True

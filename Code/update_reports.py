@@ -98,7 +98,7 @@ def create_docx(output_path):
         set_cell_background(c, "0F172A")
         c.paragraphs[0].runs[0].font.bold = True
         c.paragraphs[0].runs[0].font.color.rgb = RGBColor(255, 255, 255)
-    row_data = ["Team Leader", "Vipul", "12321218", "vipul@university.edu"]
+    row_data = ["Team Leader", "", "12321218", ""]
     for i, val in enumerate(row_data):
         c = table_m.cell(1, i)
         c.text = val
@@ -294,7 +294,7 @@ def create_pdf(output_path):
     story.append(Paragraph("2. Group Members Information", h1_style))
     t_members = Table([
         ["Role", "Student Name", "Roll Number", "Email ID"],
-        ["Team Leader", "Vipul", "12321218", "vipul@university.edu"]
+        ["Team Leader", "", "12321218", ""]
     ], colWidths=[100, 120, 100, 184])
     t_members.setStyle(TableStyle([
         ('BACKGROUND', (0,0), (-1,0), colors.HexColor('#0F172A')),
@@ -431,7 +431,7 @@ def create_pptx(output_path):
     p_t.font.color.rgb = EMERALD
     
     p_m = tf_t.add_paragraph()
-    p_m.text = "Student Name: Vipul | Roll Number: 12321218 | Course: Data Science Mini Project"
+    p_m.text = "Student Name:  | Roll Number: 12321218 | Course: Data Science Mini Project"
     p_m.font.size = PPTX_Pt(14)
     p_m.font.color.rgb = WHITE
     p_m.space_before = PPTX_Pt(10)
