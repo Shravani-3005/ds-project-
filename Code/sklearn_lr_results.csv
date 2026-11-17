@@ -1,0 +1,2 @@
+Model,R2 Score,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,Training Time,Prediction Time
+Linear Regression (Scikit-learn),0.8261894538886112,5.8991686983534874,77.90657530660583,8.826470149873382,0.0056438446044921875,0.0011370182037353516

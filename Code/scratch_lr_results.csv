@@ -1,0 +1,2 @@
+Model,R2 Score,Mean Absolute Error,Mean Squared Error,Root Mean Squared Error,Training Time,Prediction Time
+Linear Regression From Scratch,0.827697498873438,5.924394367762419,77.23062886489295,8.788095861157464,0.001819610595703125,3.600120544433594e-05
